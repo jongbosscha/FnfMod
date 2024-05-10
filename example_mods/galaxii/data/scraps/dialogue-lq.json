@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "exist",
+			"text": "Hello, it seems you're using low quality setting.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "Due to optimization concerns in week 2, every dialogue in this setting will have a single portrait for each character.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "We hope you can understand, have fun.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "nathan",
+			"text": "Hey, you two okay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Well yeah, but I think you have some explaining to do.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "What he said! Who are you? Why are you protecting us?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "My name's Nathan, and I'm the co-owner of Galaxii Games.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "But unfortunately, in recent years, Nova's become so obsessed with money.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "She's not who she used to be...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "But that aside, we should be safe in this alleyway.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "I asked my friend to try and reason with them, he isn't big on what they've become either.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "I just hope Nova doesn't fire him...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "So what now? Do we wait for him to come here and tell us what went down?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Pretty mu-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "scrap",
+			"text": "FR-THREAT DETECTED.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "Geez...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Hey, you were able to defeat that thing before, reckon you can do it again?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Yeah, but I'm not sure how we activated his Karaoke Mode last time...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Aaron, 'Your mom'.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "scrap",
+			"text": "KARAOKE MODE. ACCEPTED.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		}
+	]
+}

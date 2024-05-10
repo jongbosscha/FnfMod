@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-38
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rabbitdud Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-49
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rabbitdud Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rabbitdud Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-9
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rabbitdud Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rabbitdud Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rabbitdud_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rabbitdud",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		76,
+		206
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

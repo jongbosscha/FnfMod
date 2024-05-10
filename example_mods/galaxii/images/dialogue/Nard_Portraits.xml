@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nard_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PortAmused0000" x="10" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAmused0001" x="10" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAmused0002" x="10" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAmused0003" x="10" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAmused0004" x="10" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAnnoyed0000" x="820" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAnnoyed0001" x="820" y="10" width="800" height="800" frameX="0" frameY="-4" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAnnoyed0002" x="820" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortAnnoyed0003" x="820" y="10" width="800" height="800" frameX="0" frameY="4" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortConsidering0000" x="1630" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortExcited0000" x="2440" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortExcited0001" x="2440" y="10" width="800" height="800" frameX="0" frameY="-8" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortExcited0002" x="2440" y="10" width="800" height="800" frameX="0" frameY="-16" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortExcited0003" x="2440" y="10" width="800" height="800" frameX="0" frameY="-32" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortExcited0004" x="2440" y="10" width="800" height="800" frameX="0" frameY="-16" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortExcited0001" x="2440" y="10" width="800" height="800" frameX="0" frameY="-8" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortIntroducing0001" x="3250" y="10" width="800" height="800" frameX="0" frameY="0" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortIntroducing0002" x="3250" y="10" width="800" height="800" frameX="0" frameY="-8" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortIntroducing0003" x="3250" y="10" width="800" height="800" frameX="0" frameY="-16" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortIntroducing0004" x="3250" y="10" width="800" height="800" frameX="0" frameY="-8" frameWidth="871" frameHeight="800"/>
+	<SubTexture name="PortSurprised0000" x="10" y="820" width="1074" height="800" frameX="0" frameY="-38" frameWidth="1264" frameHeight="848"/>
+	<SubTexture name="PortSurprised0001" x="10" y="820" width="1074" height="800" frameX="0" frameY="-14" frameWidth="1264" frameHeight="848"/>
+	<SubTexture name="PortSurprised0002" x="10" y="820" width="1074" height="800" frameX="0" frameY="0" frameWidth="1264" frameHeight="848"/>
+	<SubTexture name="PortSurprised0001" x="10" y="820" width="1074" height="800" frameX="0" frameY="-14" frameWidth="1264" frameHeight="848"/>
+</TextureAtlas>

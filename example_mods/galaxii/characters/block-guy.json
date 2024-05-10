@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				-18
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Block Guy LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Block Guy DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				52
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Block Guy UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				-35
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Block Guy RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Block Guy Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Block_Guy_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "block-guy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		87,
+		99
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

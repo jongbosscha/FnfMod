@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "Son of a funking witch!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "excited",
+			"text": "Ha! Well lady, I think we're in order to see your servers now?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Nah.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "confused",
+			"text": "Nah???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "pointing",
+			"text": "Before you can get into the servers, I think you deserve a real challenge!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Oh come on, we're already overtime by one song, do we really need another?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "QUIT BREAKING THE FOURTH WALL. DAMN.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "idle",
+			"text": "Anyway.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "pointing",
+			"text": "I have a REAL challenge for you kids.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "explaining",
+			"text": "One of our employees, Nathan, has created something never seen before.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "surprised",
+			"text": "A physical manifestation of one of our very own video game characters.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "smug",
+			"text": "He's also able to affect the real world like a hacker would a video game.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "smug",
+			"text": "So it's safe to say he'd hold a fair challenge for the two of you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "excited",
+			"text": "Woah that sounds trippy yo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "And if we decline?...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "Death.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "explaining",
+			"text": "Fine, fine! Where's this physi... psychiatri..... manifest... whatever!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "block-guy",
+			"text": "Boyfriend The Hello I've meet you been to dying.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "projector"
+		},
+		{
+			"expression": "awkward",
+			"text": "Is he.... okay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "ashamed",
+			"text": "Nathan didn't put that much budget into the speech...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "awkward",
+			"text": "Right...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		}
+	]
+}

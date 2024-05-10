@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aaron.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AaronDown0000" x="3908" y="1704" width="948" height="606" pivotX="0" pivotY="10" frameX="0" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0001" x="4866" y="1704" width="925" height="618" frameX="-18" frameY="0" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0002" x="5801" y="1704" width="931" height="614" frameX="-18" frameY="-4" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0003" x="1671" y="1749" width="930" height="604" frameX="-20" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0004" x="3908" y="2320" width="930" height="604" frameX="-18" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0005" x="5801" y="2328" width="930" height="604" frameX="-18" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0006" x="4848" y="2332" width="930" height="604" frameX="-17" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0007" x="1671" y="2363" width="930" height="604" frameX="-15" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0008" x="731" y="2365" width="930" height="604" frameX="-15" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronDown0009" x="731" y="1749" width="930" height="606" frameX="-17" frameY="-10" frameWidth="950" frameHeight="618"/>
+	<SubTexture name="AaronIdle0000" x="2797" y="3251" width="521" height="879" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0001" x="7042" y="3482" width="485" height="786" frameX="-28" frameY="-92" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0002" x="0" y="3300" width="489" height="810" frameX="-23" frameY="-67" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0003" x="6515" y="3284" width="517" height="855" frameX="-12" frameY="-21" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0004" x="2247" y="3251" width="540" height="879" frameX="-9" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0005" x="1671" y="2977" width="566" height="879" frameX="-8" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0006" x="7477" y="1704" width="580" height="879" frameX="-9" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0007" x="7468" y="2593" width="570" height="879" frameX="-8" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0008" x="727" y="2979" width="562" height="879" frameX="-9" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0009" x="2797" y="3251" width="521" height="879" frameX="-9" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0010" x="2797" y="3251" width="521" height="879" frameX="-9" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronIdle0011" x="2797" y="3251" width="521" height="879" frameX="-9" frameY="0" frameWidth="589" frameHeight="879"/>
+	<SubTexture name="AaronLeft0000" x="6742" y="1704" width="725" height="781" pivotX="-108" pivotY="20" frameX="0" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0001" x="0" y="1702" width="721" height="799" frameX="-3" frameY="0" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0002" x="1573" y="947" width="729" height="792" frameX="0" frameY="-12" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0003" x="2611" y="2462" width="717" height="779" frameX="-8" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0004" x="6741" y="2495" width="717" height="779" frameX="-7" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0005" x="0" y="2511" width="717" height="779" frameX="-6" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0006" x="3338" y="2934" width="717" height="779" frameX="-8" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0007" x="4065" y="2934" width="717" height="779" frameX="-9" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0008" x="5788" y="2942" width="717" height="779" frameX="-8" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronLeft0009" x="4792" y="2946" width="717" height="779" frameX="-8" frameY="-20" frameWidth="729" frameHeight="804"/>
+	<SubTexture name="AaronRight0000" x="3117" y="945" width="785" height="748" pivotX="-80" pivotY="0" frameX="0" frameY="-17" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0001" x="0" y="927" width="772" height="765" frameX="0" frameY="0" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0002" x="2326" y="945" width="781" height="765" frameX="0" frameY="0" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0003" x="3912" y="945" width="781" height="749" frameX="0" frameY="-15" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0004" x="4703" y="945" width="781" height="749" frameX="0" frameY="-17" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0005" x="5494" y="945" width="781" height="749" frameX="0" frameY="-17" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0006" x="6285" y="945" width="781" height="749" frameX="0" frameY="-17" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0007" x="7076" y="945" width="781" height="749" frameX="0" frameY="-18" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0008" x="782" y="948" width="781" height="749" frameX="0" frameY="-18" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronRight0009" x="3117" y="1703" width="781" height="749" frameX="0" frameY="-18" frameWidth="785" frameHeight="767"/>
+	<SubTexture name="AaronUp0000" x="0" y="0" width="780" height="917" pivotX="-82" pivotY="23" frameX="0" frameY="-23" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0001" x="1558" y="0" width="758" height="937" frameX="-12" frameY="-3" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0002" x="790" y="0" width="758" height="938" frameX="-12" frameY="0" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0003" x="2326" y="0" width="758" height="935" frameX="-12" frameY="-2" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0004" x="3094" y="0" width="758" height="935" frameX="-12" frameY="-2" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0005" x="3862" y="0" width="758" height="935" frameX="-11" frameY="-2" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0006" x="4630" y="0" width="758" height="935" frameX="-12" frameY="-3" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0007" x="5398" y="0" width="758" height="935" frameX="-11" frameY="-3" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0008" x="6166" y="0" width="758" height="935" frameX="-9" frameY="-5" frameWidth="780" frameHeight="940"/>
+	<SubTexture name="AaronUp0009" x="6934" y="0" width="758" height="935" frameX="-7" frameY="-5" frameWidth="780" frameHeight="940"/>
+</TextureAtlas>

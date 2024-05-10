@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-79
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AaronLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				-265
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AaronDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				66
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AaronUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-111
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AaronRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-79
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "AaronLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				-265
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "AaronDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				66
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "AaronUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-111
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "AaronRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AaronIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Aaron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aaron",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		213,
+		82
+	],
+	"camera_position": [
+		-150,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

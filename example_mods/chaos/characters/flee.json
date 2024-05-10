@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				132,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fleetway Idle"
+		},
+		{
+			"offsets": [
+				300,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fleetway Left"
+		},
+		{
+			"offsets": [
+				40,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fleetway Right"
+		},
+		{
+			"offsets": [
+				230,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fleetway Down"
+		},
+		{
+			"offsets": [
+				104,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fleetway Up"
+		},
+		{
+			"offsets": [
+				160,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "HowFast",
+			"indices": [],
+			"name": "Fleetway HowFast"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fleetway_Super_Sonic",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "flee",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		209,
+		0
+	],
+	"camera_position": [
+		-180,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

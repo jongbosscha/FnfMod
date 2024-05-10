@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				269,
+				-144
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NathanLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-78,
+				-106
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NathanDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-122,
+				40
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NathanUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-95,
+				-105
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NathanRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "NathanIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-122,
+				27
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "NathanGuitarUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-79,
+				-101
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "NathanGuitarDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				251,
+				-151
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "NathanGuitarLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				-134
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "NathanGuitarRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Angelic_Nathan",
+	"position": [
+		30,
+		-90
+	],
+	"healthicon": "nathan",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		78,
+		196
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

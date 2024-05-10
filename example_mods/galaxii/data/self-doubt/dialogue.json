@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Hey, I think this is the place!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Someone's standing there, maybe we should ask if we can get in.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "Uh hey, what do you two want?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "explaining",
+			"text": "Uh hey, excuse me sir, we were wondering if we could-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, Jayden? Is that you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Hey uh, how do you know that-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "surprised",
+			"text": "Boyfriend..?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "surprised",
+			"text": "What are- what are YOU doing here-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "explaining",
+			"text": "Well, me and my The Girlfriend here wanted to get a game taken down that her parents weren't fond of-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "I haven't seen you in ages, Jayden!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "condescending",
+			"text": "I don't go by that anymore, my names... Jigga.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "idle",
+			"text": "I'm not too fond of you or a lot of people from back then- I'm really trying to change.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "awkward",
+			"text": "Oh I'm sorry Jigga, I-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "condescending",
+			"text": "You're dating the Earest's daughter?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "shaded",
+			"text": "God, seeing you is upsetting the hell out of me...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "explaining",
+			"text": "Jigga, I'm really sorry...trust me, I've changed-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "I doubt that. I don't want to see you anymore.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "awkward",
+			"text": "What's going-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "I SAID LEAVE!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "explaining",
+			"text": "Jigga, let's make a deal-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "If I can beat you in a rap battle, you let us in and we leave you alone.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "If I win, you leave immediately.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "excited",
+			"text": "Aight man, let's settle this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		}
+	]
+}

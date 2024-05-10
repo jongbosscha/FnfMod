@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Max_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MaximusIdle0000" x="10" y="10" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0001" x="10" y="10" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0002" x="645" y="10" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0003" x="1280" y="10" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0004" x="10" y="664" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0005" x="645" y="664" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0006" x="1280" y="664" width="625" height="644"/>
+	<SubTexture name="MaximusIdle0007" x="1280" y="664" width="625" height="644"/>
+</TextureAtlas>

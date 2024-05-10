@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-210
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"loop_name": "PortExcited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExcited",
+			"anim": "forward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortIdle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortIdle",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortScraps",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortScraps",
+			"anim": "scraps",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Aaron_Portraits"
+}

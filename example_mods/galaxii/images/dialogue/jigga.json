@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		-60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "PortAngry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAngry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortCondescending",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortCondescending0000",
+			"anim": "condescending",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortConfused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortConfused0000",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortIdle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortIdle0000",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortShaded",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortShaded0000",
+			"anim": "shaded",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortSurprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortSurprised0000",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Jigga_Portraits"
+}

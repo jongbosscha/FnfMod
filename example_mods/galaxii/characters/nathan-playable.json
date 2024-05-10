@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nathan Idle"
+		},
+		{
+			"offsets": [
+				97,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nathan Shoot"
+		},
+		{
+			"offsets": [
+				97,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nathan Shoot"
+		},
+		{
+			"offsets": [
+				97,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nathan Shoot"
+		},
+		{
+			"offsets": [
+				97,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nathan Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nathan_Be_Shootin_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nathan",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		78,
+		196
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "PortAngry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAngry",
+			"anim": "exist",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Mr_Incredible_Portraits"
+}

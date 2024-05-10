@@ -1,0 +1,214 @@
+{
+	"dialogue": [
+		{
+			"expression": "pointing",
+			"text": "Aight Nick, we've had enough fun, now put away the arm and we'll all be fine.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "apologetic",
+			"text": "Alright alright, I'm sorry...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "threatening",
+			"text": "For your loss!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "exist",
+			"text": "Mr. Seven proceeds to shoot at the three of them, while avoiding GF.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "Luckily they all manage to dodge the laser, giving Nathan the time to shoot back in retaliation.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "pain",
+			"text": "Youch! Son of a-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "scared",
+			"text": "Oh my God Nathan, what the hell did you do?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "It was us or him, alright? Did you WANT to die?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Not even going to lie, a laser would be a pretty badass way to go out.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "Look...ugh, whatever.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "idle",
+			"text": "Nard, can you take care of him?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "exist",
+			"text": "Nard and Mr. Seven quickly vanish in a snap of fingers.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "awkward",
+			"text": "What the...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Don't ask me, he always comes up with a new excuse whenever we ask him.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "Alright, so now what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Give up, of course!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "frustrated",
+			"text": "Nova, what do you want?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "condescending",
+			"text": "I want my employees back!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "pointing",
+			"text": "Why are you working for THEM?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "condescending",
+			"text": "Isn't this treason?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "angry",
+			"text": "It makes me so sick inside, I don't even WANT to sing anymore!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "explaining",
+			"text": "So, you'll leave us alone?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "annoyed",
+			"text": "How cute! Of course not! You turned two of my employees against me, destroyed company property...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "apologetic",
+			"text": "And worst of all...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "idle",
+			"text": "Well I don't know really, I thought you'd cut me off by now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "rabbitdud",
+			"text": "Wow. so stupid. woman stupid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "projector"
+		},
+		{
+			"expression": "ashamed",
+			"text": "Right! ...You!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "frustrated",
+			"text": "Is that my projector??? What did you do to it????",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "frustrated",
+			"text": " You've really crossed the line now Nova!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "rabbitdud",
+			"text": "I see woman. must eliminate woman in da red dress.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "projector"
+		}
+	]
+}

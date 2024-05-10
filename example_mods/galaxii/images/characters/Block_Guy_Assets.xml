@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Block_Guy_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Block Guy DOWN0000" x="3497" y="532" width="299" height="528" pivotX="165.6" pivotY="203.25"/>
+	<SubTexture name="Block Guy DOWN0001" x="3497" y="532" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0002" x="10" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0003" x="10" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0004" x="319" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0005" x="319" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0006" x="628" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0007" x="628" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0008" x="937" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0009" x="937" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0010" x="1246" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0011" x="1246" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0012" x="1246" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy DOWN0013" x="1246" y="593" width="299" height="528"/>
+	<SubTexture name="Block Guy Idle0000" x="1555" y="593" width="295" height="535" pivotX="152.6" pivotY="218.3"/>
+	<SubTexture name="Block Guy Idle0001" x="1555" y="593" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0002" x="1860" y="593" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0003" x="1860" y="593" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0004" x="2165" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0005" x="2165" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0006" x="2470" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0007" x="2470" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0008" x="2775" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0009" x="2775" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0010" x="3080" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0011" x="3080" y="1054" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0012" x="1555" y="593" width="295" height="535"/>
+	<SubTexture name="Block Guy Idle0013" x="1555" y="593" width="295" height="535"/>
+	<SubTexture name="Block Guy LEFT0000" x="2453" y="10" width="338" height="512" pivotX="162.6" pivotY="200"/>
+	<SubTexture name="Block Guy LEFT0001" x="2453" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0002" x="2801" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0003" x="2801" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0004" x="3149" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0005" x="3149" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0006" x="3497" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0007" x="3497" y="10" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0008" x="2453" y="532" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0009" x="2453" y="532" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0010" x="2801" y="532" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0011" x="2801" y="532" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0012" x="3149" y="532" width="338" height="512"/>
+	<SubTexture name="Block Guy LEFT0013" x="3149" y="532" width="338" height="512"/>
+	<SubTexture name="Block Guy RIGHT0000" x="3385" y="1070" width="314" height="482" pivotX="156.35" pivotY="176.1"/>
+	<SubTexture name="Block Guy RIGHT0001" x="3385" y="1070" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0002" x="3709" y="1070" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0003" x="3709" y="1070" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0004" x="10" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0005" x="10" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0006" x="334" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0007" x="334" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0008" x="658" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0009" x="658" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0010" x="982" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0011" x="982" y="1131" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0012" x="1306" y="1138" width="314" height="482"/>
+	<SubTexture name="Block Guy RIGHT0013" x="1306" y="1138" width="314" height="482"/>
+	<SubTexture name="Block Guy UP0000" x="10" y="10" width="339" height="573" pivotX="158.25" pivotY="262.95"/>
+	<SubTexture name="Block Guy UP0001" x="10" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0002" x="359" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0003" x="359" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0004" x="708" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0005" x="708" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0006" x="1057" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0007" x="1057" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0008" x="1406" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0009" x="1406" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0010" x="1755" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0011" x="1755" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0012" x="2104" y="10" width="339" height="573"/>
+	<SubTexture name="Block Guy UP0013" x="2104" y="10" width="339" height="573"/>
+</TextureAtlas>

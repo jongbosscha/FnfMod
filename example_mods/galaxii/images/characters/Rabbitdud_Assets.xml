@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rabbitdud_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rabbitdud Down0000" x="879" y="2376" width="315" height="573" pivotX="-123.4" pivotY="-67.4"/>
+	<SubTexture name="Rabbitdud Down0001" x="879" y="2959" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0002" x="1204" y="2376" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0003" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0004" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0005" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0006" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0007" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0008" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0009" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0010" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0011" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0012" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0013" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0014" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0015" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0016" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0017" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0018" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0019" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0020" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0021" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0022" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Down0023" x="1253" y="1290" width="315" height="573"/>
+	<SubTexture name="Rabbitdud Idle0000" x="869" y="1096" width="364" height="630" pivotX="-93.5" pivotY="-52.2"/>
+	<SubTexture name="Rabbitdud Idle0001" x="869" y="1096" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0002" x="934" y="10" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0003" x="934" y="10" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0004" x="879" y="1736" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0005" x="879" y="1736" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0006" x="1243" y="650" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0007" x="1243" y="650" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0008" x="1308" y="10" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0009" x="1308" y="10" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0010" x="869" y="1096" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Idle0011" x="869" y="1096" width="364" height="630"/>
+	<SubTexture name="Rabbitdud Left0000" x="10" y="2574" width="457" height="533" pivotX="-55.3" pivotY="-121.45"/>
+	<SubTexture name="Rabbitdud Left0001" x="10" y="3117" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0002" x="467" y="10" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0003" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0004" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0005" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0006" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0007" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0008" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0009" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0010" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0011" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0012" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0013" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0014" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0015" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0016" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0017" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0018" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0019" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0020" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0021" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0022" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Left0023" x="467" y="553" width="457" height="533"/>
+	<SubTexture name="Rabbitdud Right0000" x="467" y="1096" width="392" height="616" pivotX="-82.2" pivotY="-60.2"/>
+	<SubTexture name="Rabbitdud Right0001" x="467" y="1722" width="392" height="616"/>
+	<SubTexture name="Rabbitdud Right0002" x="477" y="2348" width="392" height="616"/>
+	<SubTexture name="Rabbitdud Right0003" x="477" y="2974" width="392" height="616"/>
+	<SubTexture name="Rabbitdud Right0004" x="477" y="2348" width="392" height="616"/>
+	<SubTexture name="Rabbitdud Up0000" x="10" y="10" width="447" height="631" pivotX="-42.85" pivotY="-50.8"/>
+	<SubTexture name="Rabbitdud Up0001" x="10" y="651" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0002" x="10" y="1292" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0003" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0004" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0005" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0006" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0007" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0008" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0009" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0010" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0011" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0012" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0013" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0014" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0015" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0016" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0017" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0018" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0019" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0020" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0021" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0022" x="10" y="1933" width="447" height="631"/>
+	<SubTexture name="Rabbitdud Up0023" x="10" y="1933" width="447" height="631"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"dragon's utA",
+			"dragon son",
+			[
+				255,
+				235,
+				155
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "this is test haha",
+	"weekName": "dragonsuta",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

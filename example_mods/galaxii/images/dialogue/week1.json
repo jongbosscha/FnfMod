@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-200
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "aaron",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "aaron",
+			"anim": "aaron",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "charlie",
+			"idle_offsets": [
+				0,
+				-110
+			],
+			"idle_name": "charlie",
+			"anim": "charlie",
+			"loop_offsets": [
+				0,
+				-110
+			]
+		},
+		{
+			"loop_name": "en",
+			"idle_offsets": [
+				20,
+				-70
+			],
+			"idle_name": "en",
+			"anim": "en",
+			"loop_offsets": [
+				20,
+				-70
+			]
+		},
+		{
+			"loop_name": "nova",
+			"idle_offsets": [
+				0,
+				-110
+			],
+			"idle_name": "nova",
+			"anim": "nova",
+			"loop_offsets": [
+				0,
+				-110
+			]
+		},
+		{
+			"loop_name": "block guy",
+			"idle_offsets": [
+				0,
+				-70
+			],
+			"idle_name": "block guy",
+			"anim": "block",
+			"loop_offsets": [
+				0,
+				-70
+			]
+		},
+		{
+			"loop_name": "nathan",
+			"idle_offsets": [
+				80,
+				0
+			],
+			"idle_name": "nathan",
+			"anim": "nathan",
+			"loop_offsets": [
+				80,
+				0
+			]
+		},
+		{
+			"loop_name": "bf",
+			"idle_offsets": [
+				-600,
+				-50
+			],
+			"idle_name": "bf",
+			"anim": "bf",
+			"loop_offsets": [
+				-600,
+				-50
+			]
+		},
+		{
+			"loop_name": "gf",
+			"idle_offsets": [
+				-290,
+				-80
+			],
+			"idle_name": "gf",
+			"anim": "gf",
+			"loop_offsets": [
+				-290,
+				-80
+			]
+		}
+	],
+	"image": "week1"
+}

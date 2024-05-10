@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-80
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "PortIdle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortIdle",
+			"anim": "block-guy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortRabbitdud",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortRabbitdud",
+			"anim": "rabbitdud",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BG_Portraits"
+}

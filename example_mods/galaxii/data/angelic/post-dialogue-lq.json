@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "bf",
+			"text": "Woah, you're good at this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Thanks!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "I've been messing around with using smaller devices to mess with the real world, thought I'd test it here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Well, it definitely worked.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "That was super hard!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "That's good to know! Now I know I should be ready for a fight with real intruders...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Hey, how would you guys feel about coming back to my house and hanging out while I fix the projector?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "We should avoid Charlie though, she doesn't seem too happy with you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Hold on...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Do you live with Charlie?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Oh yeah, she's my sister.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Wait... so is she an angel too? She doesn't act like one...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Nah, if anything she's a demon!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Anyway, we should get going now!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Yeah! Let me just pick up the projector parts...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		}
+	]
+}

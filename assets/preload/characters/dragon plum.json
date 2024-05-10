@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				355,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				364,
+				235
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				240
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				468,
+				240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				363,
+				264
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				355,
+				240
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "whatthe",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dragon123",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dragon",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		215,
+		0
+	],
+	"camera_position": [
+		-650,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

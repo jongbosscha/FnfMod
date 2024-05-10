@@ -1,0 +1,214 @@
+{
+	"dialogue": [
+		{
+			"expression": "nathan",
+			"text": "Aight Nick, we've had enough fun, now put away the arm and we'll all be fine.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "neo",
+			"text": "Alright alright, I'm sorry...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "neo",
+			"text": "For your loss!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "exist",
+			"text": "Mr. Seven proceeds to shoot at the three of them, while avoiding GF.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "Luckily, they all manage to dodge the laser, giving Nathan the time to shoot back in retaliation.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "neo",
+			"text": "Youch! Son of a-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Oh my God Nathan, what the hell did you do?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "It was us or him, alright? Did you WANT to die?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "Not even going to lie, a laser would be a pretty badass way to go out.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Look...ugh, whatever.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Nard, can you take care of him?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "exist",
+			"text": "Nard and Mr. Seven quickly vanish in a snap of fingers.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "bf",
+			"text": "What the...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Don't ask me, he always comes up with a new excuse whenever we ask him.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "Alright, so now what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "Give up, of course!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Nova, what do you want?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "I want my employees back!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "Why are you working for THEM?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "Isn't this treason?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "It makes me so sick inside, I don't even WANT to sing anymore!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "So, you'll leave us alone?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "How cute! Of course not! You turned two of my employees against me, destroyed company property...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "And worst of all...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "Well I don't know really, I thought you'd cut me off by now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "dud",
+			"text": "Wow. so stupid. woman stupid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nova",
+			"text": "Right! ...You!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Is that my projector??? What did you do to it????",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": " You've really crossed the line now Nova!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "dud",
+			"text": "I see woman. must eliminate woman in da red dress.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		}
+	]
+}

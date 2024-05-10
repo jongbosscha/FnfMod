@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgQueers.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dance0000" x="10" y="10" width="983" height="778" frameX="0" frameY="-31" frameWidth="983" frameHeight="816"/>
+	<SubTexture name="Dance0001" x="1003" y="10" width="959" height="790" frameX="-12" frameY="-21" frameWidth="983" frameHeight="816"/>
+	<SubTexture name="Dance0002" x="10" y="810" width="947" height="803" frameX="-18" frameY="-12" frameWidth="983" frameHeight="816"/>
+	<SubTexture name="Dance0003" x="967" y="810" width="947" height="816" frameX="-18" frameY="0" frameWidth="983" frameHeight="816"/>
+</TextureAtlas>

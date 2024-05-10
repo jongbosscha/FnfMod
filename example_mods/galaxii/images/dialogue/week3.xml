@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="week3.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf0000" x="10" y="10" width="672" height="672" frameX="-110" frameY="-20" frameWidth="782" frameHeight="692"/>
+	<SubTexture name="chug0000" x="692" y="10" width="523" height="562"/>
+	<SubTexture name="gf0000" x="1225" y="10" width="576" height="576" frameX="-110" frameY="-20" frameWidth="686" frameHeight="596"/>
+	<SubTexture name="jayden0000" x="10" y="692" width="500" height="500" frameX="0" frameY="-21" frameWidth="505" frameHeight="521"/>
+	<SubTexture name="miss0000" x="520" y="692" width="458" height="494"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dragon son rhythm heaven.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ask0000" x="0" y="0" width="388" height="461"/>
+	<SubTexture name="ask0001" x="472" y="0" width="388" height="461"/>
+	<SubTexture name="ask0002" x="944" y="0" width="388" height="461"/>
+	<SubTexture name="ask0003" x="944" y="0" width="388" height="461"/>
+	<SubTexture name="ask0004" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0005" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0006" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0007" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0008" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0009" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0010" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0011" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0012" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0013" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0014" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0015" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0016" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0017" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0018" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="ask0019" x="1416" y="0" width="388" height="461"/>
+	<SubTexture name="man_idle0000" x="0" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0001" x="427" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0002" x="427" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0003" x="854" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0004" x="854" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0005" x="1281" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0006" x="1281" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0007" x="1281" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0008" x="1281" y="545" width="343" height="444"/>
+	<SubTexture name="man_idle0009" x="1281" y="545" width="343" height="444"/>
+	<SubTexture name="wow0000" x="0" y="1073" width="343" height="439"/>
+	<SubTexture name="wow0001" x="0" y="1073" width="343" height="439"/>
+	<SubTexture name="wow0002" x="427" y="1073" width="343" height="439"/>
+	<SubTexture name="wow0003" x="427" y="1073" width="343" height="439"/>
+</TextureAtlas>

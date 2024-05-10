@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Alright, I think this is the pla-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "Hi! Do you want to play Fortnite?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "chugjug"
+		},
+		{
+			"expression": "awkward",
+			"text": "Uhhhh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "awkward",
+			"text": "I don't think this is the right Charlie...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Told you we should've tracked Nard instead.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "I still think Mr. Seven was the best choice.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "BOYFRIEND, HIS PAGE WAS LITERALLY TAKEN DOWN!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "What r u guys talking bout?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "chugjug"
+		},
+		{
+			"expression": "confused",
+			"text": "Uh hi little girl, do you know where Galaxii Studios is located?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "YEs! I'll tell you if yoiuy play Fortynite with me!!!!!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "chugjug"
+		},
+		{
+			"expression": "awkward",
+			"text": "How does one make typos out loud what.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		}
+	]
+}

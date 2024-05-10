@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "pointing",
+			"text": "Hey, kid!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "Huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "pointing",
+			"text": "Come with me, I can get you somewhere safe.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "angry",
+			"text": "Nathan, you WILL stop that this instant!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "condescending",
+			"text": "What would Scott Cawthon think of this behavior?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "worried",
+			"text": "Come on you two, we need to get out fast!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "awkward",
+			"text": "Who are you? Whats going on?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "pointing",
+			"text": "No time to explain.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-60,
+		-170
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"loop_name": "PortAmused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAmused0000",
+			"anim": "amused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortAnnoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAnnoyed0000",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortConsidering",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortConsidering",
+			"anim": "considering",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortExcited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExcited0000",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortIntroducing",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortIntroducing0000",
+			"anim": "introducing",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortSurprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortSurprised0002",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Nard_Portraits"
+}

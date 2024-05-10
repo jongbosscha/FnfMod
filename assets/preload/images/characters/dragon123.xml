@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dragon123.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="934" height="1065"/>
+	<SubTexture name="down0001" x="1018" y="0" width="934" height="1065"/>
+	<SubTexture name="idle0000" x="2036" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0001" x="3054" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0002" x="4072" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0003" x="4072" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0004" x="5090" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0005" x="6108" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0006" x="7126" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0007" x="7126" y="0" width="934" height="1089"/>
+	<SubTexture name="idle0008" x="0" y="1173" width="934" height="1089"/>
+	<SubTexture name="left0000" x="1018" y="1173" width="934" height="1076"/>
+	<SubTexture name="left0001" x="2036" y="1173" width="934" height="1076"/>
+	<SubTexture name="right0000" x="3054" y="1173" width="980" height="1080"/>
+	<SubTexture name="right0001" x="4118" y="1173" width="980" height="1080"/>
+	<SubTexture name="up0000" x="5182" y="1173" width="934" height="1097"/>
+	<SubTexture name="up0001" x="6200" y="1173" width="934" height="1097"/>
+	<SubTexture name="whatthe0000" x="7218" y="1173" width="934" height="1089"/>
+	<SubTexture name="whatthe0001" x="0" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0002" x="1018" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0003" x="1018" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0004" x="2036" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0005" x="3054" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0006" x="4072" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0007" x="4072" y="2354" width="934" height="1089"/>
+	<SubTexture name="whatthe0008" x="5090" y="2354" width="934" height="1089"/>
+</TextureAtlas>

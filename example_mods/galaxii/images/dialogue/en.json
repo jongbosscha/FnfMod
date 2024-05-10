@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		-140
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"loop_name": "PortAwkward",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAwkward0000",
+			"anim": "awkward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortCondescending",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortCondescending0000",
+			"anim": "condescending",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortConfused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortConfused0000",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortConsidering",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortConsidering0000",
+			"anim": "considering",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortReachingOut",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortReachingOut0000",
+			"anim": "reaching-out",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortThreatening",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortThreatening0000",
+			"anim": "threatening",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortWorried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortWorried0000",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "En_Portraits"
+}

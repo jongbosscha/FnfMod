@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "En Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				17
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "En Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "En Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				12
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "En Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Duet Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				24
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Charlie Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				21
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Charlie Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				21
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Charlie Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				21
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Charlie Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Charlie_En_Duet_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "en-and-charlie",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		164,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

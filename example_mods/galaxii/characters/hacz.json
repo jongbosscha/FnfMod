@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				23,
+				-29
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hacz left new",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-266
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hacz down new",
+			"indices": []
+		},
+		{
+			"offsets": [
+				145,
+				57
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hacz up new",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hacz right new",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "hacz idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hacz",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hacz",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		95,
+		95
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

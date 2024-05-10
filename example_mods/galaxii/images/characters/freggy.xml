@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freggy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FreddyDown0000" x="877" y="3179" width="360" height="720" frameX="0" frameY="-10" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0001" x="877" y="3179" width="360" height="720" frameX="0" frameY="-10" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0002" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0003" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0004" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0005" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0006" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0007" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0008" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0009" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0010" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0011" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0012" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0013" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyDown0014" x="891" y="2325" width="345" height="731" frameX="-7" frameY="0" frameWidth="360" frameHeight="731"/>
+	<SubTexture name="FreddyIdleDance0000" x="465" y="2373" width="416" height="796" frameX="-14" frameY="-3" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0001" x="465" y="2373" width="416" height="796" frameX="-14" frameY="-3" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0002" x="10" y="2373" width="445" height="797" frameX="0" frameY="-1" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0003" x="10" y="2373" width="445" height="797" frameX="0" frameY="-1" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0004" x="10" y="3180" width="429" height="798" frameX="-8" frameY="0" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0005" x="10" y="3180" width="429" height="798" frameX="-8" frameY="0" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0006" x="449" y="3180" width="418" height="796" frameX="-13" frameY="-4" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0007" x="449" y="3180" width="418" height="796" frameX="-13" frameY="-4" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0008" x="465" y="2373" width="416" height="796" frameX="-14" frameY="-3" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyIdleDance0009" x="465" y="2373" width="416" height="796" frameX="-14" frameY="-3" frameWidth="445" frameHeight="800"/>
+	<SubTexture name="FreddyLeft0000" x="563" y="1571" width="427" height="744" frameX="0" frameY="-13" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0001" x="563" y="1571" width="427" height="744" frameX="0" frameY="-13" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0002" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0003" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0004" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0005" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0006" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0007" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0008" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0009" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0010" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0011" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0012" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0013" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyLeft0014" x="609" y="775" width="406" height="759" frameX="-10" frameY="0" frameWidth="427" frameHeight="759"/>
+	<SubTexture name="FreddyRight0000" x="10" y="813" width="589" height="748" frameX="0" frameY="-6" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0001" x="10" y="813" width="589" height="748" frameX="0" frameY="-6" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0002" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0003" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0004" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0005" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0006" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0007" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0008" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0009" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0010" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0011" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0012" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0013" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyRight0014" x="579" y="10" width="571" height="755" frameX="-9" frameY="0" frameWidth="589" frameHeight="755"/>
+	<SubTexture name="FreddyUp0000" x="10" y="10" width="559" height="793"/>
+	<SubTexture name="FreddyUp0001" x="10" y="10" width="559" height="793"/>
+	<SubTexture name="FreddyUp0002" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0003" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0004" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0005" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0006" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0007" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0008" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0009" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0010" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0011" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0012" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0013" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+	<SubTexture name="FreddyUp0014" x="10" y="1571" width="543" height="792" frameX="-8" frameY="-1" frameWidth="559" frameHeight="793"/>
+</TextureAtlas>

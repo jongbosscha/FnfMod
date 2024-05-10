@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		-200
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "week3",
+	"animations": [
+		{
+			"loop_offsets": [
+				-600,
+				-50
+			],
+			"anim": "bf",
+			"idle_offsets": [
+				-600,
+				-50
+			],
+			"loop_name": "bf",
+			"idle_name": "bf"
+		},
+		{
+			"loop_offsets": [
+				-290,
+				-80
+			],
+			"anim": "gf",
+			"idle_offsets": [
+				-290,
+				-80
+			],
+			"loop_name": "gf",
+			"idle_name": "gf"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-120
+			],
+			"anim": "chug",
+			"idle_offsets": [
+				0,
+				-120
+			],
+			"loop_name": "chug",
+			"idle_name": "chug"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-210
+			],
+			"anim": "miss",
+			"idle_offsets": [
+				0,
+				-210
+			],
+			"loop_name": "miss",
+			"idle_name": "miss"
+		},
+		{
+			"loop_offsets": [
+				-20,
+				-140
+			],
+			"anim": "jigga",
+			"idle_offsets": [
+				-20,
+				-140
+			],
+			"loop_name": "jayden",
+			"idle_name": "jayden"
+		}
+	]
+}

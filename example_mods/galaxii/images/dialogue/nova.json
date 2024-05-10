@@ -1,0 +1,154 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		-90
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"loop_name": "PortAngry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAngry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortAnnoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAnnoyed0000",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortApologetic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortApologetic0000",
+			"anim": "apologetic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortAshamed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAshamed0000",
+			"anim": "ashamed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortCondescending",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortCondescending0000",
+			"anim": "condescending",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortExplaining",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExplaining0000",
+			"anim": "explaining",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortIdle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortIdle0000",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortPleased",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortPleased0000",
+			"anim": "pleased",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortPointing",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortPointing0000",
+			"anim": "pointing",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortSmug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortSmug0000",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortSurprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortSurprised0000",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Nova_Portraits"
+}

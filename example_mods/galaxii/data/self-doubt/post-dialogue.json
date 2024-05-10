@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "shaded",
+			"text": "I-I knew that wouldn't end well...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "excited",
+			"text": "Come on The Boyfriend, let's go take down that game!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Alright, just one sec...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "Hey, Jigga, I think you did pretty good! ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh- w-well, thanks I guess...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "explaining",
+			"text": "I really want to to understand that I've changed a lot, man...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "Let's meetup sometime and maybe sing some more!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "condescending",
+			"text": "You would want to do that..?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "surprised",
+			"text": "HELL YEAH!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "Well- I guess I'd be willing to do that-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		},
+		{
+			"expression": "excited",
+			"text": "Well I gotta go, see ya later man!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "Bye...man..?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jigga"
+		}
+	]
+}

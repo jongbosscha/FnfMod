@@ -1,0 +1,374 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "chaosStage",
+		"player1": "bf",
+		"player2": "flee",
+		"player3": null,
+		"events": [
+			[
+				714.285714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"0"
+					]
+				]
+			],
+			[
+				1507.93650793651,
+				[
+					[
+						"Play Animation",
+						"HowFast",
+						"0"
+					]
+				]
+			],
+			[
+				20952.380952381,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee3"
+					],
+					[
+						"Play Animation",
+						"Blast",
+						"0"
+					],
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21480.1587301587,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21587.3015873016,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				29841.2698412698,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee1"
+					],
+					[
+						"Play Animation",
+						"Slow",
+						"0"
+					]
+				]
+			],
+			[
+				30476.1904761905,
+				[
+					[
+						"Play Animation",
+						"StepItUp",
+						"0"
+					]
+				]
+			],
+			[
+				31746.0317460317,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				40634.9206349206,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee1"
+					],
+					[
+						"Play Animation",
+						"Laugh",
+						"0"
+					]
+				]
+			],
+			[
+				41904.7619047619,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				50714.2857142857,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee1"
+					],
+					[
+						"Play Animation",
+						"Slow",
+						"0"
+					]
+				]
+			],
+			[
+				52063.4920634921,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				61587.3015873016,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee1"
+					],
+					[
+						"Play Animation",
+						"ure",
+						"0"
+					]
+				]
+			],
+			[
+				62222.2222222223,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				80952.380952381,
+				[
+					[
+						"Change Character",
+						"0",
+						"superbf"
+					],
+					[
+						"PlaySound",
+						"powerup",
+						"1"
+					],
+					[
+						"imageflash",
+						"Super",
+						"1"
+					],
+					[
+						"shakey arrows",
+						"little",
+						""
+					]
+				]
+			],
+			[
+				82222.2222222223,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee1"
+					],
+					[
+						"Play Animation",
+						"what",
+						"0"
+					]
+				]
+			],
+			[
+				82539.6825396826,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				91428.5714285715,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee1"
+					],
+					[
+						"Play Animation",
+						"Grrr",
+						"0"
+					]
+				]
+			],
+			[
+				92698.4126984128,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				100079.365079365,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee2"
+					],
+					[
+						"Play Animation",
+						"show",
+						"0"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				122619.047619048,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee2"
+					],
+					[
+						"Play Animation",
+						"Scream",
+						"0"
+					]
+				]
+			],
+			[
+				123174.603174603,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				132619.047619048,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee2"
+					],
+					[
+						"Play Animation",
+						"grow",
+						"0"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				142301.587301587,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee2"
+					],
+					[
+						"Play Animation",
+						"shutup",
+						"0"
+					]
+				]
+			],
+			[
+				143492.063492064,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee"
+					]
+				]
+			],
+			[
+				153650.793650794,
+				[
+					[
+						"Change Character",
+						"1",
+						"flee2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "BloodSplash",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 189,
+		"arrowSkin": "SuperNotes",
+		"needsVoices": true,
+		"song": "chaos"
+	}
+}

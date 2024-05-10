@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				172,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				250,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				80,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				150,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				171,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				186,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "HowFast",
+			"indices": [],
+			"name": "dealing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-50
+			],
+			"anim": "fool",
+			"fps": 24,
+			"name": "fool",
+			"indices": []
+		},
+		{
+			"offsets": [
+				175,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "nuh uh",
+			"indices": [],
+			"name": "nuh uh"
+		},
+		{
+			"offsets": [
+				177,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "doom",
+			"indices": [],
+			"name": "doom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chaos",
+	"position": [
+		140,
+		100
+	],
+	"healthicon": "chaos",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		149,
+		100
+	],
+	"camera_position": [
+		-170,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

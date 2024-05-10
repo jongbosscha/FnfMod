@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-200
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "nova",
+			"idle_offsets": [
+				70,
+				-50
+			],
+			"idle_name": "nova",
+			"anim": "nova",
+			"loop_offsets": [
+				70,
+				-50
+			]
+		},
+		{
+			"loop_name": "nathan",
+			"idle_offsets": [
+				170,
+				0
+			],
+			"idle_name": "nathan",
+			"anim": "nathan",
+			"loop_offsets": [
+				170,
+				0
+			]
+		},
+		{
+			"loop_name": "bf",
+			"idle_offsets": [
+				-600,
+				-50
+			],
+			"idle_name": "bf",
+			"anim": "bf",
+			"loop_offsets": [
+				-600,
+				-50
+			]
+		},
+		{
+			"loop_name": "gf",
+			"idle_offsets": [
+				-290,
+				-80
+			],
+			"idle_name": "gf",
+			"anim": "gf",
+			"loop_offsets": [
+				-290,
+				-80
+			]
+		},
+		{
+			"loop_name": "scraps",
+			"idle_offsets": [
+				140,
+				0
+			],
+			"idle_name": "scraps",
+			"anim": "scrap",
+			"loop_offsets": [
+				140,
+				0
+			]
+		},
+		{
+			"loop_name": "angel",
+			"idle_offsets": [
+				370,
+				110
+			],
+			"idle_name": "angel",
+			"anim": "angel",
+			"loop_offsets": [
+				370,
+				110
+			]
+		},
+		{
+			"loop_name": "nard",
+			"idle_offsets": [
+				170,
+				0
+			],
+			"idle_name": "nard",
+			"anim": "nard",
+			"loop_offsets": [
+				170,
+				0
+			]
+		},
+		{
+			"loop_name": "nick",
+			"idle_offsets": [
+				140,
+				0
+			],
+			"idle_name": "nick",
+			"anim": "neo",
+			"loop_offsets": [
+				140,
+				0
+			]
+		},
+		{
+			"loop_name": "rabbitdud",
+			"idle_offsets": [
+				80,
+				-34
+			],
+			"idle_name": "rabbitdud",
+			"anim": "dud",
+			"loop_offsets": [
+				80,
+				-34
+			]
+		}
+	],
+	"image": "week2"
+}

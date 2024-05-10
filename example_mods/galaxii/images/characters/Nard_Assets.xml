@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nard_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nard Down0000" x="1971" y="10" width="358" height="650" pivotX="-176.65" pivotY="-227.95"/>
+	<SubTexture name="Nard Down0001" x="1971" y="10" width="358" height="650"/>
+	<SubTexture name="Nard Down0002" x="2107" y="670" width="358" height="650"/>
+	<SubTexture name="Nard Down0003" x="2107" y="670" width="358" height="650"/>
+	<SubTexture name="Nard Down0004" x="2107" y="670" width="358" height="650"/>
+	<SubTexture name="Nard Idle0000" x="1132" y="1830" width="405" height="805" pivotX="-72.6" pivotY="-82.3"/>
+	<SubTexture name="Nard Idle0001" x="1132" y="1830" width="405" height="805"/>
+	<SubTexture name="Nard Idle0002" x="1141" y="10" width="405" height="805"/>
+	<SubTexture name="Nard Idle0003" x="1141" y="10" width="405" height="805"/>
+	<SubTexture name="Nard Idle0004" x="1556" y="10" width="405" height="805"/>
+	<SubTexture name="Nard Idle0005" x="1556" y="10" width="405" height="805"/>
+	<SubTexture name="Nard Idle0006" x="1692" y="825" width="405" height="805"/>
+	<SubTexture name="Nard Idle0007" x="1692" y="825" width="405" height="805"/>
+	<SubTexture name="Nard Idle0008" x="1132" y="1830" width="405" height="805"/>
+	<SubTexture name="Nard Idle0009" x="1132" y="1830" width="405" height="805"/>
+	<SubTexture name="Nard Left0000" x="581" y="10" width="550" height="900" pivotX="0" pivotY="18" frameX="0" frameY="-18" frameWidth="550" frameHeight="918"/>
+	<SubTexture name="Nard Left0001" x="10" y="2740" width="550" height="902" frameX="0" frameY="-15" frameWidth="550" frameHeight="918"/>
+	<SubTexture name="Nard Left0002" x="1690" y="1830" width="536" height="918" frameX="-7" frameY="0" frameWidth="550" frameHeight="918"/>
+	<SubTexture name="Nard Left0003" x="572" y="1830" width="550" height="900" frameX="0" frameY="-18" frameWidth="550" frameHeight="918"/>
+	<SubTexture name="Nard Left0004" x="572" y="1830" width="550" height="900" frameX="0" frameY="-18" frameWidth="550" frameHeight="918"/>
+	<SubTexture name="Nard Left0005" x="572" y="1830" width="550" height="900" frameX="0" frameY="-18" frameWidth="550" frameHeight="918"/>
+	<SubTexture name="Nard Right0000" x="1130" y="2740" width="550" height="900" pivotX="1.3" pivotY="0" frameX="-1" frameY="0" frameWidth="552" frameHeight="900"/>
+	<SubTexture name="Nard Right0001" x="10" y="1830" width="552" height="900"/>
+	<SubTexture name="Nard Right0002" x="1132" y="920" width="550" height="900" frameX="-1" frameY="0" frameWidth="552" frameHeight="900"/>
+	<SubTexture name="Nard Right0003" x="1132" y="920" width="550" height="900" frameX="-1" frameY="0" frameWidth="552" frameHeight="900"/>
+	<SubTexture name="Nard Right0004" x="1132" y="920" width="550" height="900" frameX="-1" frameY="0" frameWidth="552" frameHeight="900"/>
+	<SubTexture name="Nard Up0000" x="570" y="2740" width="550" height="900" pivotX="-95.2" pivotY="0" frameX="-1" frameY="0" frameWidth="561" frameHeight="900"/>
+	<SubTexture name="Nard Up0001" x="10" y="920" width="552" height="900" frameX="0" frameY="0" frameWidth="561" frameHeight="900"/>
+	<SubTexture name="Nard Up0002" x="572" y="920" width="550" height="900" frameX="-1" frameY="0" frameWidth="561" frameHeight="900"/>
+	<SubTexture name="Nard Up0003" x="10" y="10" width="561" height="900"/>
+	<SubTexture name="Nard Up0004" x="10" y="10" width="561" height="900"/>
+</TextureAtlas>

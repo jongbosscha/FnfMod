@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "ashamed",
+			"text": "God damnit I can't believe the police caught me committing hate crimes against minorities.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cellmate"
+		},
+		{
+			"expression": "explaining",
+			"text": "Hi kid wanna sing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "talk",
+			"text": "No",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cellmate"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Alright.... guess I'll just sing to myself!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		}
+	]
+}

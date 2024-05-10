@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "exist",
+			"text": "As Rabbitdud flies from the projector, Nathan quickly grabs BF and GF and sprints behind the speakers.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, what are you doi-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "exist",
+			"text": "BF gets cut off by a loud explosion, and pieces of the projector fly everywhere.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "frustrated",
+			"text": "Ugh, I hate when that happens.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "awkward",
+			"text": "Is this... normal?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "worried",
+			"text": "Yeah, atleast 3 of my creations have escaped the projector this week...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "Guess it's time for me to fix that up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "Y'all can leave, I'll get the game taken down sometime tomorrow.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, Nathan?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Hm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "excited",
+			"text": "Maybe a quick song could help lighten the mood!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "amused",
+			"text": "Huh, good idea!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "By the way, would you mind if I get into something more comfortable?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah, go ahead!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angel",
+			"text": "Ah, much better.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "You're an angel???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angel",
+			"text": "Yep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "excited",
+			"text": "That's awesome!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		}
+	]
+}

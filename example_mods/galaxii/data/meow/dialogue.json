@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "exist",
+			"text": "Our following filler is brought to you by your mot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "miss-mm",
+			"boxState": "normal",
+			"expression": "goaway",
+			"text": "Meow."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-galaxii",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "WHAT THE FUCK?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf-galaxii",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "WHAT THE FUCK?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "miss-mm",
+			"boxState": "normal",
+			"expression": "goaway",
+			"text": "Meow."
+		}
+	]
+}

@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Well, that was convenient, we managed to out-sing the security system!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, I wonder who'd build a karaoke mode into a defense robot anyway....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "shaded",
+			"text": "Who the funk are you and what do you THINK you're doing here?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "surprised",
+			"text": "Well, I-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "AND WHAT DID YOU DO TO AARON?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "confused",
+			"text": "Aaron? Don't you think thats kind of a sweet name for such a scary robot?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "flustered",
+			"text": "Th-that's besides the point! I don't know who you think you are, but...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "threatening",
+			"text": "You have a lot of nerve to step up in here and start destroying my things.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "explaining",
+			"text": "Well actually, me and my boyfriend were just here to talk to you about something.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "And well, what would that be?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "explaining",
+			"text": "Well ma'am, we were just here to have you take down a game that my girlfriend's parents weren't fond of.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "surprised",
+			"text": "Oh! That's who you two are! I knew I recognized that blue hair somewhere.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "considering",
+			"text": "Well, you seem nice, but that doesn't make up for the damage you did to Aaron right here,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "idle",
+			"text": "...nor the breaking and entering.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "smug",
+			"text": "But I think I know something that would excuse y'all.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "confused",
+			"text": "And that would be....?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "surprised",
+			"text": "You, silly!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "scared",
+			"text": "WHAT?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "scared",
+			"text": "HUH?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "smug",
+			"text": "What? I don't see any issue, your boyfriend's just a runt anyway! The only thing he can do is sing!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "considering",
+			"text": "Actually...that gives me an idea...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "smug",
+			"text": "Aight, let's rap it out. If you win, you keep the girl and resist the charges.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "smug",
+			"text": "And if I win, I'm taking your girl and getting you arrested!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "excited",
+			"text": "Aight, bet.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "Bring it on!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		}
+	]
+}

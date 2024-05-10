@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gearsweep.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gearssweep0000" x="0" y="0" width="468" height="499" frameX="-3" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0001" x="472" y="0" width="471" height="496" frameX="-1" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0002" x="947" y="0" width="470" height="494" frameX="0" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0003" x="1421" y="0" width="462" height="499" frameX="0" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0004" x="1887" y="0" width="468" height="502" frameX="0" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0005" x="2359" y="0" width="471" height="500" frameX="-1" frameY="-3" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0006" x="2834" y="0" width="472" height="498" frameX="0" frameY="-5" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0007" x="3310" y="0" width="471" height="494" frameX="-2" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0008" x="0" y="506" width="468" height="488" frameX="-3" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0009" x="472" y="506" width="460" height="495" frameX="-4" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0010" x="936" y="506" width="461" height="498" frameX="-5" frameY="-5" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0011" x="1401" y="506" width="465" height="495" frameX="-6" frameY="-7" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0012" x="1870" y="506" width="466" height="497" frameX="-6" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0013" x="2340" y="506" width="467" height="493" frameX="-5" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0014" x="2811" y="506" width="465" height="485" frameX="-6" frameY="-7" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0015" x="3280" y="506" width="461" height="494" frameX="-4" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0016" x="0" y="1008" width="460" height="498" frameX="-4" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0017" x="464" y="1008" width="467" height="496" frameX="-3" frameY="-7" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0018" x="935" y="1008" width="468" height="500" frameX="-3" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0019" x="1407" y="1008" width="469" height="497" frameX="-2" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0020" x="1880" y="1008" width="469" height="490" frameX="-2" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0021" x="2353" y="1008" width="465" height="498" frameX="-1" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0022" x="2822" y="1008" width="461" height="502" frameX="-2" frameY="-3" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0023" x="3287" y="1008" width="468" height="501" frameX="-1" frameY="-3" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0024" x="0" y="1514" width="469" height="505" frameX="-3" frameY="0" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0025" x="473" y="1514" width="469" height="500" frameX="-3" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0026" x="946" y="1514" width="467" height="494" frameX="-5" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0027" x="1417" y="1514" width="463" height="497" frameX="-5" frameY="-1" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0028" x="1884" y="1514" width="456" height="500" frameX="-6" frameY="-3" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0029" x="2344" y="1514" width="465" height="502" frameX="-5" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0030" x="2813" y="1514" width="468" height="502" frameX="-5" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0031" x="3285" y="1514" width="467" height="497" frameX="-5" frameY="-5" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0032" x="0" y="2023" width="470" height="493" frameX="-3" frameY="-3" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0033" x="474" y="2023" width="467" height="492" frameX="-3" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0034" x="945" y="2023" width="461" height="495" frameX="-1" frameY="-7" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0035" x="1410" y="2023" width="468" height="499" frameX="0" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0036" x="1882" y="2023" width="472" height="497" frameX="0" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0037" x="2358" y="2023" width="471" height="495" frameX="0" frameY="-7" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0038" x="2833" y="2023" width="471" height="493" frameX="-1" frameY="-5" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0039" x="3308" y="2023" width="469" height="489" frameX="-1" frameY="-5" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0040" x="0" y="2526" width="461" height="496" frameX="-2" frameY="-6" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0041" x="465" y="2526" width="463" height="500" frameX="-3" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0042" x="932" y="2526" width="467" height="499" frameX="-4" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0043" x="1403" y="2526" width="466" height="500" frameX="-5" frameY="-4" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0044" x="1873" y="2526" width="466" height="497" frameX="-6" frameY="-3" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0045" x="2343" y="2526" width="463" height="492" frameX="-7" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0046" x="2810" y="2526" width="458" height="500" frameX="-6" frameY="-2" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0047" x="3272" y="2526" width="459" height="504" frameX="-6" frameY="-1" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0048" x="0" y="3034" width="466" height="503" frameX="-5" frameY="-1" frameWidth="473" frameHeight="505"/>
+	<SubTexture name="gearssweep0049" x="470" y="3034" width="467" height="503" frameX="-5" frameY="-2" frameWidth="473" frameHeight="505"/>
+</TextureAtlas>

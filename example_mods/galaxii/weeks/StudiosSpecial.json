@@ -1,0 +1,76 @@
+{
+	"storyName": "Fuckery for free",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Rusty Gears",
+			"aaron",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Galaxii",
+			"nova",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Ugh",
+			"block-guy",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Underswap",
+			"rabbitdud",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Scottgames",
+			"freddy",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Round 2",
+			"seven",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "StudiosS"
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Grrr",
+			"indices": [],
+			"name": "Fleetway Grrr"
+		},
+		{
+			"offsets": [
+				300,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laser",
+			"indices": [],
+			"name": "Fleetway Laser Blast"
+		},
+		{
+			"offsets": [
+				160,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "Fleetway Laugh"
+		},
+		{
+			"offsets": [
+				60,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Scream",
+			"indices": [],
+			"name": "Fleetway Scream"
+		},
+		{
+			"offsets": [
+				140,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Shut",
+			"indices": [],
+			"name": "Fleetway Shut Up"
+		},
+		{
+			"offsets": [
+				140,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "StepItUp",
+			"indices": [],
+			"name": "Fleetway StepItUp"
+		},
+		{
+			"offsets": [
+				80,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Slow",
+			"indices": [],
+			"name": "Fleetway Too Slow"
+		},
+		{
+			"offsets": [
+				190,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "Fleetway WHAT?!"
+		},
+		{
+			"offsets": [
+				50,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ure",
+			"indices": [],
+			"name": "Fleetway YoureFinished"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fleetway1",
+	"position": [
+		-40,
+		-140
+	],
+	"healthicon": "flee",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		209,
+		0
+	],
+	"camera_position": [
+		-190,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

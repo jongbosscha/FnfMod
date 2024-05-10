@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Charlie_Go_Sleep_Cutscene.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Charlie go sleep0000" x="10" y="10" width="936" height="928" pivotX="0" pivotY="0"/>
+	<SubTexture name="Charlie go sleep0001" x="956" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0002" x="1902" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0003" x="2848" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0004" x="3794" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0005" x="3794" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0006" x="4740" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0007" x="5686" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0008" x="6632" y="10" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0009" x="10" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0010" x="956" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0011" x="956" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0012" x="1902" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0013" x="1902" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0014" x="1902" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0015" x="1902" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0016" x="1902" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0017" x="2848" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0018" x="3794" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0019" x="4740" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0020" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0021" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0022" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0023" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0024" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0025" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0026" x="5686" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0027" x="4740" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0028" x="6632" y="948" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0029" x="10" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0030" x="956" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0031" x="1902" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0032" x="2848" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0033" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0034" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0035" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0036" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0037" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0038" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0039" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0040" x="3794" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0041" x="4740" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0042" x="5686" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0043" x="6632" y="1886" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0044" x="10" y="2824" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0045" x="956" y="2824" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0046" x="1902" y="2824" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0047" x="2848" y="2824" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0048" x="3794" y="2824" width="936" height="928"/>
+	<SubTexture name="Charlie go sleep0049" x="4740" y="2824" width="936" height="928"/>
+</TextureAtlas>

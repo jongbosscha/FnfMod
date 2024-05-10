@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chugjug_Charlie)Portraits.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bitmap 1" x="10" y="10" width="299" height="54"/>
+	<SubTexture name="PortConfused0000" x="319" y="10" width="179" height="179" frameX="0" frameY="-420" frameWidth="787" frameHeight="600"/>
+	<SubTexture name="PortConfused0001" x="508" y="10" width="309" height="310" frameX="-47" frameY="-290" frameWidth="787" frameHeight="600"/>
+	<SubTexture name="PortConfused0002" x="827" y="10" width="437" height="437" frameX="-95" frameY="-162" frameWidth="787" frameHeight="600"/>
+	<SubTexture name="PortConfused0003" x="1274" y="10" width="562" height="562" frameX="-144" frameY="-34" frameWidth="787" frameHeight="600"/>
+	<SubTexture name="PortConfused0004" x="1846" y="10" width="500" height="500" frameX="-287" frameY="0" frameWidth="787" frameHeight="600"/>
+	<SubTexture name="PortExcited0000" x="2356" y="10" width="198" height="94" frameX="-670" frameY="0" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0001" x="2564" y="10" width="323" height="210" frameX="-636" frameY="-111" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0002" x="2897" y="10" width="195" height="402" frameX="-728" frameY="-184" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0003" x="3102" y="10" width="511" height="499" frameX="-598" frameY="-305" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0004" x="10" y="582" width="764" height="247" frameX="-499" frameY="-599" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0005" x="784" y="582" width="729" height="449" frameX="-272" frameY="-270" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0006" x="1523" y="582" width="785" height="477" frameX="0" frameY="-28" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0007" x="2318" y="582" width="833" height="466" frameX="-134" frameY="-63" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0008" x="3161" y="582" width="742" height="491" frameX="-338" frameY="-80" frameWidth="1263" frameHeight="846"/>
+	<SubTexture name="PortExcited0009" x="10" y="1083" width="511" height="500" frameX="-612" frameY="-105" frameWidth="1263" frameHeight="846"/>
+</TextureAtlas>

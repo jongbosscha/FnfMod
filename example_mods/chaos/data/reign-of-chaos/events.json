@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "chaosStage",
+		"player1": "mysterion",
+		"player2": "chaos",
+		"player3": null,
+		"events": [
+			[
+				714.285714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Dad"
+					]
+				]
+			],
+			[
+				1309.52380952381,
+				[
+					[
+						"Play Animation",
+						"HowFast",
+						"Dad"
+					]
+				]
+			],
+			[
+				20952.380952381,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				30079.3650793651,
+				[
+					[
+						"Play Animation",
+						"doom",
+						"Dad"
+					]
+				]
+			],
+			[
+				51428.5714285714,
+				[
+					[
+						"Play Animation",
+						"nuh uh",
+						"nuh uh"
+					]
+				]
+			],
+			[
+				61587.3015873016,
+				[
+					[
+						"Play Animation",
+						"fool",
+						"Dad"
+					]
+				]
+			],
+			[
+				76190.4761904763,
+				[
+					[
+						"Change Character",
+						"0",
+						"ghosterion"
+					]
+				]
+			],
+			[
+				81269.8412698413,
+				[
+					[
+						"Change Character",
+						"1",
+						"chaosfear"
+					]
+				]
+			],
+			[
+				82222.2222222223,
+				[
+					[
+						"Play Animation",
+						"uh",
+						"Dad"
+					]
+				]
+			],
+			[
+				91746.0317460318,
+				[
+					[
+						"Play Animation",
+						"scream1",
+						"Dad"
+					]
+				]
+			],
+			[
+				100793.650793651,
+				[
+					[
+						"Play Animation",
+						"better",
+						"Dad"
+					]
+				]
+			],
+			[
+				122539.682539683,
+				[
+					[
+						"Play Animation",
+						"scream2",
+						"Dad"
+					]
+				]
+			],
+			[
+				132539.682539683,
+				[
+					[
+						"Play Animation",
+						"hamburg",
+						"Dad"
+					]
+				]
+			],
+			[
+				142222.222222222,
+				[
+					[
+						"Play Animation",
+						"enough",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "coolsp",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 189,
+		"arrowSkin": "southnotes",
+		"needsVoices": true,
+		"song": "reign-of-chaos"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BagheeraIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				141
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BagheeraGuitar",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bagheera_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "max",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		70,
+		64
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

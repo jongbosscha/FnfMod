@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FreddyLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-72
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FreddyDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-6
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FreddyUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-44
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FreddyRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FreddyIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freggy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "freddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		115,
+		68
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "studio",
+		"player1": "bf",
+		"player2": "chugjug-charlie",
+		"player3": null,
+		"events": [
+			[
+				64285.7142857143,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 168,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Chug"
+	}
+}

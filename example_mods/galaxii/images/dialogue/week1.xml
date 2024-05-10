@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="week1.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aaron0000" x="10" y="10" width="768" height="768" frameX="0" frameY="-19" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="bf0000" x="788" y="10" width="672" height="672" frameX="-110" frameY="-20" frameWidth="782" frameHeight="692"/>
+	<SubTexture name="block guy0000" x="1470" y="10" width="576" height="576" frameX="0" frameY="-19" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="charlie0000" x="2056" y="10" width="576" height="576" frameX="0" frameY="0" frameWidth="626" frameHeight="576"/>
+	<SubTexture name="en0000" x="2642" y="10" width="672" height="672" frameX="0" frameY="0" frameWidth="706" frameHeight="672"/>
+	<SubTexture name="gf0000" x="3324" y="10" width="576" height="576" frameX="-110" frameY="-20" frameWidth="686" frameHeight="596"/>
+	<SubTexture name="nathan0000" x="10" y="788" width="800" height="800" frameX="0" frameY="0" frameWidth="862" frameHeight="800"/>
+	<SubTexture name="nova0000" x="820" y="788" width="576" height="576" frameX="0" frameY="-10" frameWidth="637" frameHeight="586"/>
+</TextureAtlas>

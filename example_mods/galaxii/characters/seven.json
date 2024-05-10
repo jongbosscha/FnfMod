@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				21
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Seven Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				3
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Seven Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Seven Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-9
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Seven Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Seven Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				16
+			],
+			"fps": 24,
+			"anim": "singALRIGHT",
+			"indices": [],
+			"name": "Seven Alright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-30
+			],
+			"fps": 24,
+			"anim": "singCOUGH",
+			"indices": [],
+			"name": "Seven Cough"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-3
+			],
+			"fps": 24,
+			"anim": "singLESSGO",
+			"indices": [],
+			"name": "Seven Less Go"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				3
+			],
+			"fps": 24,
+			"anim": "singDOTHIS",
+			"indices": [],
+			"name": "Seven Lets Do This!"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				4
+			],
+			"fps": 24,
+			"anim": "singUGH",
+			"indices": [],
+			"name": "Seven Ugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Seven_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "seven",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		71,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

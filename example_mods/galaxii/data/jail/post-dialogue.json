@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "God fucking damnit I hate this place",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		}
+	]
+}

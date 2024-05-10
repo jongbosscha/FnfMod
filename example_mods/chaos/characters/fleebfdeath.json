@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				440,
+				180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "fleetway death BF Dead Loop"
+		},
+		{
+			"offsets": [
+				440,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "fleetway death BF dies"
+		},
+		{
+			"offsets": [
+				440,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "fleetway death BF Dead Loop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fleetway_death_BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "superbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		209,
+		0
+	],
+	"camera_position": [
+		360,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

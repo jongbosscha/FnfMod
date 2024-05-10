@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MGBoppers.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mganim0000" x="10" y="10" width="1423" height="561" frameX="-12" frameY="0" frameWidth="1447" frameHeight="562"/>
+	<SubTexture name="mganim0001" x="10" y="1143" width="1447" height="543" frameX="0" frameY="-19" frameWidth="1447" frameHeight="562"/>
+	<SubTexture name="mganim0002" x="10" y="581" width="1435" height="552" frameX="-6" frameY="-9" frameWidth="1447" frameHeight="562"/>
+	<SubTexture name="mganim0003" x="10" y="10" width="1423" height="561" frameX="-12" frameY="0" frameWidth="1447" frameHeight="562"/>
+	<SubTexture name="mganim0004" x="10" y="10" width="1423" height="561" frameX="-12" frameY="0" frameWidth="1447" frameHeight="562"/>
+	<SubTexture name="mganim0005" x="10" y="10" width="1423" height="561" frameX="-12" frameY="0" frameWidth="1447" frameHeight="562"/>
+	<SubTexture name="mganim0006" x="10" y="10" width="1423" height="561" frameX="-12" frameY="0" frameWidth="1447" frameHeight="562"/>
+</TextureAtlas>

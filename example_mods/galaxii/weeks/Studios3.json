@@ -1,0 +1,49 @@
+{
+	"storyName": "Memories from the past",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studiosprologue",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Studios2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Chug",
+			"charlie-chugjug",
+			[
+				60,
+				173,
+				193
+			]
+		],
+		[
+			"Meow",
+			"miss-mm",
+			[
+				60,
+				173,
+				193
+			]
+		],
+		[
+			"Self Doubt",
+			"jigga",
+			[
+				60,
+				173,
+				193
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Prologue"
+}

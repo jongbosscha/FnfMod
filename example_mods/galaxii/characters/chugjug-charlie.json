@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				-110
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CharlieRight0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-310
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CharlieDown0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				300
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CharlieUp0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-240,
+				23
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CharlieLeft0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "CharlieIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				300
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "CharlieMISSUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				23
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "CharlieMISSLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-110
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "CharlieMISSRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-310
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "CharlieMISSDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chugjug_charlie_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "charlie-chugjug",
+	"flip_x": true,
+	"healthbar_colors": [
+		198,
+		130,
+		255
+	],
+	"camera_position": [
+		0,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

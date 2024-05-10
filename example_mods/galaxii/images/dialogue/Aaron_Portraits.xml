@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aaron_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PortExcited0000" x="10" y="10" width="768" height="768" frameX="0" frameY="0" frameWidth="781" frameHeight="800"/>
+	<SubTexture name="PortIdle0000" x="788" y="10" width="768" height="768" frameX="-30" frameY="0" frameWidth="869" frameHeight="787"/>
+	<SubTexture name="PortScraps0000" x="10" y="788" width="800" height="800" frameX="0" frameY="0" frameWidth="901" frameHeight="819"/>
+</TextureAtlas>

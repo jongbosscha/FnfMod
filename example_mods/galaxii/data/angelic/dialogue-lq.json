@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "exist",
+			"text": "As Rabbitdud flies from the projector, Nathan quickly grabs BF and GF and sprints behind the speakers.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "bf",
+			"text": "Wait, what are you doi-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "exist",
+			"text": "BF gets cut off by a loud explosion, and pieces of the projector fly everywhere.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "nathan",
+			"text": "Ugh, I hate when that happens.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "Is this... normal?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Yeah, atleast 3 of my creations have escaped the projector this week...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Guess it's time for me to fix that up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Y'all can leave, I'll get the game taken down sometime tomorrow.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Wait, Nathan?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Hm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Maybe a quick song could help lighten the mood!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Huh, good idea!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "By the way, would you mind if I get into something more comfortable?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Yeah, go ahead!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "angel",
+			"text": "Ah, much better.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "You're an angel???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "angel",
+			"text": "Yep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "That's awesome!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		}
+	]
+}

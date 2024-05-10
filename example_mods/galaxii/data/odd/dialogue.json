@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "condescending",
+			"text": "So, you're back...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "threatening",
+			"text": "What do you want?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "threatening",
+			"text": "You got me fired from my job for trying to protect the studio.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "threatening",
+			"text": "You stole our code and took down our most successful game.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "considering",
+			"text": "And you angered Nova into ruining our entire reputation.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "condescending",
+			"text": "What more do you want?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "explaining",
+			"text": "Well actually, we were kind of here to apologize for what h-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "condescending",
+			"text": "Shut it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "condescending",
+			"text": "I don't want to hear it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "confused",
+			"text": "Let's just get this over with.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		}
+	]
+}

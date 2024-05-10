@@ -1,0 +1,31 @@
+{
+	"storyName": "Later That Night...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studiospart1alternative",
+	"weekBefore": "Studios2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Odd",
+			"en-night",
+			[
+				26,
+				13,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Studios4"
+}

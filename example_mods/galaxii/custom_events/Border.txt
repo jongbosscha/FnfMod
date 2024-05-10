@@ -1,0 +1,4 @@
+Adds Black Bars to the top and bottom of the screen.
+
+Value 1: Tween In or Out (1: In, 0: Out)
+Value 2: How long the tween takes to complete (0: Instant)

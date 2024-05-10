@@ -1,0 +1,228 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "GRRRRRAHHHH!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "angry",
+			"text": "I...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "tired",
+			"text": "*Huff*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "angry",
+			"text": "I call bullcrap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "threatening",
+			"text": "This isn't over yet you little....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "angry",
+			"text": "Hey, we won fair and square!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "Leave us be whack-job!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "We're here to take down that game and nothing else!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "flustered",
+			"text": "I don't CARE why you're here...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "tired",
+			"text": "*Huff*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "angry",
+			"text": "I want a rematch!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "awkward",
+			"text": "Charlie....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "shaded",
+			"text": "Oh God, here comes the fun police y'all..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "worried",
+			"text": "Charlie, what are you doing?? You look exhausted!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "tired",
+			"text": "En, I...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "condescending",
+			"text": "I see what's going on here. I recognize you two.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "considering",
+			"text": " I know you mean nothing but trouble whatever you're here for.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "considering",
+			"text": "Gilbert told me all about you little punks.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, you know Gilber-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "reaching-out",
+			"text": "Charlie, give me the mic, I want to settle this, you need some rest.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "flustered",
+			"text": "Oh? What makes you think you're any better than me huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "angry",
+			"text": "Is it the fact that you're tall?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "shouting",
+			"text": "Is it because I've made us fail so many times?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "angry",
+			"text": "Oh I know! You don't like that I don't 'take anything seriously'.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "reaching-out",
+			"text": "Charlie, it's not like that, you need a break, give me the microphone.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "shouting",
+			"text": "No!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "charlie"
+		},
+		{
+			"expression": "threatening",
+			"text": "Fine, if you don't want to give me it, I'll have to take it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		}
+	]
+}

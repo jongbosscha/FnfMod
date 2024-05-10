@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Woah, you're good at this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "amused",
+			"text": "Thanks!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "I've been messing around with using smaller devices to mess with the real world, thought I'd test it here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, it definitely worked.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "That was super hard!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "amused",
+			"text": "That's good to know! Now I know I should be ready for a fight with real intruders...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "Hey, how would you guys feel about coming back to my house and hanging out while I fix the projector?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "We should avoid Charlie though, she doesn't seem too happy with you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "awkward",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "awkward",
+			"text": "Hold on...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Do you live with Charlie?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "worried",
+			"text": "Oh yeah, she's my sister.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait... so is she an angel too? She doesn't act like one...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "amused",
+			"text": "Nah, if anything she's a demon!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "excited",
+			"text": "Anyway, we should get going now!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Yeah! Let me just pick up the projector parts...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		}
+	]
+}

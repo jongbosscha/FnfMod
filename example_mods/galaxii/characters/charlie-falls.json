@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Charlie go sleep",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Charlie_Go_Sleep_Cutscene",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "en-and-charlie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		172,
+		96
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

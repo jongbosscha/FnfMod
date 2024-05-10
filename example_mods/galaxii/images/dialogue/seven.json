@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-50,
+		-220
+	],
+	"scale": 0.9,
+	"animations": [
+		{
+			"loop_name": "PortApologetic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortApologetic0000",
+			"anim": "apologetic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortCondescending",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortCondescending0000",
+			"anim": "condescending",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortExcited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExcited0000",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortExplaining",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExplaining0000",
+			"anim": "explaining",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortPain",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortPain0000",
+			"anim": "pain",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortShaded",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortShaded0000",
+			"anim": "shaded",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortThreatening",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortThreatening0000",
+			"anim": "threatening",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Seven_Portraits"
+}

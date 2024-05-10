@@ -1,0 +1,41 @@
+{
+	"storyName": "wadubaduda",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ringside",
+			"dragon son",
+			[
+				255,
+				173,
+				20
+			]
+		],
+		[
+			"racing into the night",
+			"bf",
+			[
+				255,
+				113,
+				160
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week rhythm"
+}

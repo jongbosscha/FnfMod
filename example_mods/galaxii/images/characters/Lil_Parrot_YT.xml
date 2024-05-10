@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lil_Parrot_YT.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Agony0000" x="0" y="0" width="583" height="765" frameX="0" frameY="-39" frameWidth="583" frameHeight="843"/>
+	<SubTexture name="Agony0001" x="583" y="0" width="524" height="843" frameX="-29" frameY="0" frameWidth="583" frameHeight="843"/>
+	<SubTexture name="Agony0002" x="583" y="0" width="524" height="843" frameX="-29" frameY="0" frameWidth="583" frameHeight="843"/>
+	<SubTexture name="Agony0003" x="583" y="0" width="524" height="843" frameX="-29" frameY="0" frameWidth="583" frameHeight="843"/>
+	<SubTexture name="Agony0004" x="583" y="0" width="524" height="843" frameX="-29" frameY="0" frameWidth="583" frameHeight="843"/>
+	<SubTexture name="Agony0005" x="583" y="0" width="524" height="843" frameX="-29" frameY="0" frameWidth="583" frameHeight="843"/>
+	<SubTexture name="Doom0000" x="1107" y="0" width="1035" height="1073" frameX="-15" frameY="-10" frameWidth="1065" frameHeight="1093"/>
+	<SubTexture name="Doom0001" x="2142" y="0" width="1065" height="1039" frameX="0" frameY="-27" frameWidth="1065" frameHeight="1093"/>
+	<SubTexture name="Doom0002" x="0" y="1073" width="982" height="1093" frameX="-42" frameY="0" frameWidth="1065" frameHeight="1093"/>
+	<SubTexture name="Horrifying0000" x="982" y="1073" width="1028" height="867" frameX="0" frameY="-37" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Horrifying0001" x="2010" y="1073" width="964" height="940" frameX="-32" frameY="0" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Horrifying0002" x="2010" y="1073" width="964" height="940" frameX="-32" frameY="0" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Horrifying0003" x="2010" y="1073" width="964" height="940" frameX="-32" frameY="0" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Horrifying0004" x="2010" y="1073" width="964" height="940" frameX="-32" frameY="0" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Horrifying0005" x="2010" y="1073" width="964" height="940" frameX="-32" frameY="0" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Horrifying0006" x="2010" y="1073" width="964" height="940" frameX="-32" frameY="0" frameWidth="1028" frameHeight="940"/>
+	<SubTexture name="Pain0000" x="0" y="2166" width="1227" height="1310"/>
+	<SubTexture name="Pain0001" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0002" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0003" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0004" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0005" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0006" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0007" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Pain0008" x="1227" y="2166" width="1227" height="1251" frameX="0" frameY="-29" frameWidth="1227" frameHeight="1310"/>
+	<SubTexture name="Suffering0000" x="2454" y="2166" width="844" height="875" frameX="0" frameY="-54" frameWidth="844" frameHeight="982"/>
+	<SubTexture name="Suffering0001" x="3298" y="2166" width="721" height="982" frameX="-60" frameY="0" frameWidth="844" frameHeight="982"/>
+	<SubTexture name="Suffering0002" x="3298" y="2166" width="721" height="982" frameX="-60" frameY="0" frameWidth="844" frameHeight="982"/>
+	<SubTexture name="Suffering0003" x="3298" y="2166" width="721" height="982" frameX="-60" frameY="0" frameWidth="844" frameHeight="982"/>
+	<SubTexture name="Suffering0004" x="3298" y="2166" width="721" height="982" frameX="-60" frameY="0" frameWidth="844" frameHeight="982"/>
+	<SubTexture name="Suffering0005" x="3298" y="2166" width="721" height="982" frameX="-60" frameY="0" frameWidth="844" frameHeight="982"/>
+	<SubTexture name="Suffering0006" x="3298" y="2166" width="721" height="982" frameX="-60" frameY="0" frameWidth="844" frameHeight="982"/>
+</TextureAtlas>

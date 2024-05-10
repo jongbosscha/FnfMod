@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PortIdle0000" x="10" y="10" width="576" height="576" frameX="0" frameY="0" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortIdle0001" x="10" y="10" width="576" height="576" frameX="0" frameY="-5" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortIdle0002" x="10" y="10" width="576" height="576" frameX="0" frameY="-10" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortIdle0003" x="10" y="10" width="576" height="576" frameX="0" frameY="-15" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortIdle0004" x="10" y="10" width="576" height="576" frameX="0" frameY="-10" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortIdle0005" x="10" y="10" width="576" height="576" frameX="0" frameY="-5" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortRabbitdud0000" x="596" y="10" width="576" height="576" frameX="0" frameY="0" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortRabbitdud0001" x="596" y="10" width="576" height="576" frameX="0" frameY="-5" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortRabbitdud0002" x="596" y="10" width="576" height="576" frameX="0" frameY="-10" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortRabbitdud0003" x="596" y="10" width="576" height="576" frameX="0" frameY="-15" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortRabbitdud0004" x="596" y="10" width="576" height="576" frameX="0" frameY="-10" frameWidth="677" frameHeight="595"/>
+	<SubTexture name="PortRabbitdud0005" x="596" y="10" width="576" height="576" frameX="0" frameY="-5" frameWidth="677" frameHeight="595"/>
+</TextureAtlas>

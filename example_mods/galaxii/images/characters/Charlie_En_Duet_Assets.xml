@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Charlie_En_Duet_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Charlie Down0000" x="3794" y="3762" width="936" height="928" pivotX="0" pivotY="0"/>
+	<SubTexture name="Charlie Down0001" x="4740" y="3762" width="936" height="928"/>
+	<SubTexture name="Charlie Down0002" x="5686" y="3762" width="936" height="928"/>
+	<SubTexture name="Charlie Down0003" x="6632" y="3762" width="936" height="928"/>
+	<SubTexture name="Charlie Down0004" x="2848" y="3768" width="936" height="928"/>
+	<SubTexture name="Charlie Left0000" x="1902" y="3775" width="936" height="928" pivotX="-63" pivotY="0"/>
+	<SubTexture name="Charlie Left0001" x="10" y="3781" width="936" height="928"/>
+	<SubTexture name="Charlie Left0002" x="956" y="3781" width="936" height="928"/>
+	<SubTexture name="Charlie Left0003" x="3794" y="4700" width="936" height="928"/>
+	<SubTexture name="Charlie Left0004" x="4740" y="4700" width="936" height="928"/>
+	<SubTexture name="Charlie Right0000" x="5686" y="4700" width="936" height="928" pivotX="0" pivotY="0"/>
+	<SubTexture name="Charlie Right0001" x="6632" y="4700" width="936" height="928"/>
+	<SubTexture name="Charlie Right0002" x="2848" y="4706" width="936" height="928"/>
+	<SubTexture name="Charlie Right0003" x="1902" y="4713" width="936" height="928"/>
+	<SubTexture name="Charlie Right0004" x="10" y="4719" width="936" height="928"/>
+	<SubTexture name="Charlie Up0000" x="6649" y="2824" width="936" height="928" pivotX="-120" pivotY="0"/>
+	<SubTexture name="Charlie Up0001" x="2848" y="2830" width="936" height="928"/>
+	<SubTexture name="Charlie Up0002" x="1902" y="2837" width="936" height="928"/>
+	<SubTexture name="Charlie Up0003" x="10" y="2843" width="936" height="928"/>
+	<SubTexture name="Charlie Up0004" x="956" y="2843" width="936" height="928"/>
+	<SubTexture name="Duet Idle0000" x="3831" y="10" width="936" height="928" pivotX="0" pivotY="0"/>
+	<SubTexture name="Duet Idle0001" x="4777" y="10" width="936" height="928"/>
+	<SubTexture name="Duet Idle0002" x="5723" y="10" width="936" height="928"/>
+	<SubTexture name="Duet Idle0003" x="6669" y="10" width="936" height="928"/>
+	<SubTexture name="Duet Idle0004" x="3831" y="948" width="936" height="928"/>
+	<SubTexture name="Duet Idle0005" x="4777" y="948" width="936" height="928"/>
+	<SubTexture name="Duet Idle0006" x="5723" y="948" width="936" height="928"/>
+	<SubTexture name="Duet Idle0007" x="4777" y="948" width="936" height="928"/>
+	<SubTexture name="Duet Idle0008" x="3831" y="10" width="936" height="928"/>
+	<SubTexture name="En Down0000" x="956" y="967" width="936" height="928" pivotX="3.8" pivotY="18" frameX="-3" frameY="-18" frameWidth="943" frameHeight="947"/>
+	<SubTexture name="En Down0001" x="966" y="10" width="943" height="947"/>
+	<SubTexture name="En Down0002" x="3818" y="1886" width="936" height="928" frameX="-3" frameY="-18" frameWidth="943" frameHeight="947"/>
+	<SubTexture name="En Down0003" x="4764" y="1886" width="936" height="928" frameX="-3" frameY="-18" frameWidth="943" frameHeight="947"/>
+	<SubTexture name="En Down0004" x="5710" y="1886" width="936" height="928" frameX="-3" frameY="-18" frameWidth="943" frameHeight="947"/>
+	<SubTexture name="En Left0000" x="6656" y="1886" width="936" height="928" pivotX="6.1" pivotY="6" frameX="-6" frameY="-6" frameWidth="949" frameHeight="934"/>
+	<SubTexture name="En Left0001" x="2872" y="10" width="949" height="934"/>
+	<SubTexture name="En Left0002" x="2865" y="1892" width="936" height="928" frameX="-6" frameY="-6" frameWidth="949" frameHeight="934"/>
+	<SubTexture name="En Left0003" x="1902" y="1899" width="936" height="928" frameX="-6" frameY="-6" frameWidth="949" frameHeight="934"/>
+	<SubTexture name="En Left0004" x="10" y="1905" width="936" height="928" frameX="-6" frameY="-6" frameWidth="949" frameHeight="934"/>
+	<SubTexture name="En Right0000" x="956" y="1905" width="936" height="928" pivotX="3.9" pivotY="13" frameX="-3" frameY="-13" frameWidth="943" frameHeight="941"/>
+	<SubTexture name="En Right0001" x="1919" y="10" width="943" height="941"/>
+	<SubTexture name="En Right0002" x="3811" y="2824" width="936" height="928" frameX="-3" frameY="-13" frameWidth="943" frameHeight="941"/>
+	<SubTexture name="En Right0003" x="4757" y="2824" width="936" height="928" frameX="-3" frameY="-13" frameWidth="943" frameHeight="941"/>
+	<SubTexture name="En Right0004" x="5703" y="2824" width="936" height="928" frameX="-3" frameY="-13" frameWidth="943" frameHeight="941"/>
+	<SubTexture name="En Up0000" x="6669" y="948" width="936" height="928" pivotX="-38.9" pivotY="18" frameX="-5" frameY="-18" frameWidth="946" frameHeight="947"/>
+	<SubTexture name="En Up0001" x="10" y="10" width="946" height="947"/>
+	<SubTexture name="En Up0002" x="2872" y="954" width="936" height="928" frameX="-5" frameY="-18" frameWidth="946" frameHeight="947"/>
+	<SubTexture name="En Up0003" x="1919" y="961" width="936" height="928" frameX="-5" frameY="-18" frameWidth="946" frameHeight="947"/>
+	<SubTexture name="En Up0004" x="10" y="967" width="936" height="928" frameX="-5" frameY="-18" frameWidth="946" frameHeight="947"/>
+</TextureAtlas>

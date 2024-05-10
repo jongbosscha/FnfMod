@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBG_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="week10000" x="10" y="10" width="1440" height="840"/>
+	<SubTexture name="week20000" x="1460" y="10" width="1440" height="840"/>
+	<SubTexture name="week30000" x="10" y="860" width="1440" height="840"/>
+	<SubTexture name="week40000" x="1460" y="860" width="1440" height="840"/>
+	<SubTexture name="week50000" x="10" y="1710" width="1440" height="840"/>
+</TextureAtlas>

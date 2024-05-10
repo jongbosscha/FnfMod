@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		80
+	],
+	"scale": 1.95,
+	"animations": [
+		{
+			"loop_name": "PortIHateThisFuckingCatSoMuch",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortIHateThisFuckingCatSoMuch",
+			"anim": "goaway",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "miss meow meow"
+}

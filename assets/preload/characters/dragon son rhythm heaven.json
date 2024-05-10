@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "man_idle"
+		},
+		{
+			"offsets": [
+				-1,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ask",
+			"indices": [],
+			"name": "ask"
+		},
+		{
+			"offsets": [
+				0,
+				-235
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "wow",
+			"indices": [],
+			"name": "wow"
+		},
+		{
+			"offsets": [
+				-4,
+				-238
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "bigguy",
+			"loop": true,
+			"name": "bigguy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dragon son rhythm heaven_test",
+	"position": [
+		270,
+		0
+	],
+	"healthicon": "dragon son",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		211,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

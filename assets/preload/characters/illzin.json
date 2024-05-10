@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ill idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-352
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ill left"
+		},
+		{
+			"offsets": [
+				-13,
+				-351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ill down"
+		},
+		{
+			"offsets": [
+				-41,
+				-337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ill right"
+		},
+		{
+			"offsets": [
+				-12,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ill up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-42
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ill_die",
+			"indices": [
+				44,
+				45
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-42
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ill_die",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-42
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ill_die",
+			"indices": [
+				44,
+				45
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/illzin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		70,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

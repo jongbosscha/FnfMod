@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mys_idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mys_down"
+		},
+		{
+			"offsets": [
+				-46,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mys_up"
+		},
+		{
+			"offsets": [
+				-7,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mys_left"
+		},
+		{
+			"offsets": [
+				-75,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mys_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghosterion",
+	"position": [
+		-110,
+		-170
+	],
+	"healthicon": "ghosterion",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		140,
+		175
+	],
+	"camera_position": [
+		40,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

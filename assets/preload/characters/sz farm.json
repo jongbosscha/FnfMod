@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-201,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "s.z idle"
+		},
+		{
+			"offsets": [
+				-208,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "s.z left"
+		},
+		{
+			"offsets": [
+				-200,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "s.z down"
+		},
+		{
+			"offsets": [
+				-201,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "s.z up"
+		},
+		{
+			"offsets": [
+				-159,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "s.z right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/S.z farm",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		30,
+		-30
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

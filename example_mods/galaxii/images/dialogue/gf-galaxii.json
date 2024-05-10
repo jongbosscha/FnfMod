@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		-100
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"loop_name": "PortAngry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAngryStill",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortAnnoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAnnoyedStill",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortAwkward",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortAwkwardStill",
+			"anim": "awkward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortConfused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortConfusedStill",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortExcited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExcitedStill",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortExplaining",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortExplainingStill",
+			"anim": "explaining",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortScared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortScaredStill",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PortSurprised",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PortSurprisedStill",
+			"anim": "surprised",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "GF_Portraits"
+}

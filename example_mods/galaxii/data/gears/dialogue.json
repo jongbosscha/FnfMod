@@ -1,0 +1,75 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Wow, this place sure was easy to break into!",
+			"boxState": "normal",
+			"sound": "Detected",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "surprised",
+			"text": "It sure was, The Girlfriend!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "shaded",
+			"text": "But man, the journey here wasn't. I dont think I EVER want to face that demon cat again.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "Sure is a good thing they don't seem to have any security systems!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "I know, right? Seems odd, though-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "forward",
+			"text": "THREAT DETECTED",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aaron"
+		},
+		{
+			"expression": "awkward",
+			"text": "Uh oh.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "scared",
+			"text": "EEEEEEEEH!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "idle",
+			"text": "KARAOKE MODE ACCEPTED.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aaron"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, that's convenient.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		}
+	]
+}

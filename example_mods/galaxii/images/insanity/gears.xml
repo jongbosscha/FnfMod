@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gears.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corner gearsA0000" x="0" y="0" width="1143" height="856"/>
+	<SubTexture name="corner gearsA0001" x="1147" y="0" width="1107" height="823" frameX="-18" frameY="-16" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0002" x="2258" y="0" width="1070" height="787" frameX="-36" frameY="-34" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0003" x="3332" y="0" width="1038" height="757" frameX="-50" frameY="-48" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0004" x="4374" y="0" width="1011" height="731" frameX="-64" frameY="-61" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0005" x="5389" y="0" width="982" height="702" frameX="-78" frameY="-76" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0006" x="6375" y="0" width="970" height="690" frameX="-84" frameY="-82" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0007" x="0" y="860" width="954" height="674" frameX="-92" frameY="-90" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0008" x="958" y="860" width="944" height="664" frameX="-97" frameY="-93" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0009" x="1906" y="860" width="939" height="659" frameX="-100" frameY="-96" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsA0010" x="2849" y="860" width="931" height="651" frameX="-104" frameY="-100" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsB0000" x="2849" y="860" width="931" height="651" frameX="-4" frameY="-3" frameWidth="1143" frameHeight="856"/>
+	<SubTexture name="corner gearsB0001" x="3784" y="860" width="936" height="657" frameX="-2" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0002" x="4724" y="860" width="935" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0003" x="5663" y="860" width="936" height="656" frameX="-3" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0004" x="6603" y="860" width="937" height="657" frameX="-2" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0005" x="0" y="1538" width="931" height="652" frameX="-5" frameY="-3" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0006" x="935" y="1538" width="936" height="656" frameX="-2" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0007" x="1875" y="1538" width="935" height="655" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0008" x="2814" y="1538" width="936" height="657" frameX="-4" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0009" x="3754" y="1538" width="936" height="657" frameX="-3" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0010" x="4694" y="1538" width="931" height="652" frameX="-5" frameY="-3" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0011" x="5629" y="1538" width="936" height="657" frameX="-2" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0012" x="6569" y="1538" width="935" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0013" x="0" y="2199" width="936" height="657" frameX="-3" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0014" x="940" y="2199" width="937" height="657" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0015" x="1881" y="2199" width="931" height="652" frameX="-5" frameY="-4" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0016" x="2816" y="2199" width="937" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0017" x="3757" y="2199" width="935" height="655" frameX="-3" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0018" x="4696" y="2199" width="936" height="657" frameX="-2" frameY="-3" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0019" x="5636" y="2199" width="937" height="658" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0020" x="6577" y="2199" width="930" height="652" frameX="-5" frameY="-4" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0021" x="0" y="2861" width="936" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0022" x="940" y="2861" width="936" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0023" x="1880" y="2861" width="936" height="657" frameX="-1" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0024" x="2820" y="2861" width="937" height="657" frameX="-1" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0025" x="3761" y="2861" width="931" height="652" frameX="-4" frameY="-4" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0026" x="4696" y="2861" width="936" height="657" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0027" x="5636" y="2861" width="935" height="656" frameX="-3" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0028" x="6575" y="2861" width="936" height="657" frameX="0" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0029" x="0" y="3522" width="937" height="657" frameX="0" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0030" x="941" y="3522" width="930" height="652" frameX="-4" frameY="-4" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0031" x="1875" y="3522" width="936" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0032" x="2815" y="3522" width="936" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0033" x="3755" y="3522" width="936" height="656" frameX="-1" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0034" x="4695" y="3522" width="936" height="657" frameX="-1" frameY="-1" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0035" x="5635" y="3522" width="930" height="652" frameX="-4" frameY="-3" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0036" x="6569" y="3522" width="936" height="656" frameX="-1" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0037" x="0" y="4183" width="935" height="656" frameX="-2" frameY="-2" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0038" x="939" y="4183" width="936" height="656" frameX="-1" frameY="0" frameWidth="940" frameHeight="660"/>
+	<SubTexture name="corner gearsB0039" x="1879" y="4183" width="937" height="657" frameX="-1" frameY="0" frameWidth="940" frameHeight="660"/>
+</TextureAtlas>

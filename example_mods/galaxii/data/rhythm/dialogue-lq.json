@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "exist",
+			"text": "Nathan shoots at Aaron, triggering his self defense mode.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "But just as Aaron was about to lunge toward the three, he's brought to a stop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "exist",
+			"text": "The robot, now floating in mid air, is surrounded by a strange green aura.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "bf",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "What the funk?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Woah...did I awaken some super ability I wasn't aware of?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "Nah, that's just him.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Oh, you mean that friend you mentioned?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nard",
+			"text": "The name's Nard, I presume Nathan's already told you about me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "Not by name, but yes, actually.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nathan",
+			"text": "So...how'd it go?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nard",
+			"text": "I think Aaron attacking us should be enough to tell you...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nard",
+			"text": "I know not everyone playing would connect the dots but...come on...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "gf",
+			"text": "You seem stressed, can we help in any way?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nard",
+			"text": "Hm... let's try singing, in a friendly way.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "bf",
+			"text": "Alright! All the rage in your chest is ought to get out some good rhythm.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		},
+		{
+			"expression": "nard",
+			"text": "Hey, I'm supposed to be the self aware one!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "week2"
+		}
+	]
+}

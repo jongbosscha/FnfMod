@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mysterion.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mys_down0000" x="10" y="10" width="405" height="440"/>
+	<SubTexture name="mys_down0001" x="10" y="10" width="405" height="440"/>
+	<SubTexture name="mys_down0002" x="425" y="10" width="405" height="440"/>
+	<SubTexture name="mys_down0003" x="425" y="10" width="405" height="440"/>
+	<SubTexture name="mys_down0004" x="840" y="10" width="405" height="440"/>
+	<SubTexture name="mys_down0005" x="840" y="10" width="405" height="440"/>
+	<SubTexture name="mys_down0006" x="1255" y="10" width="405" height="440"/>
+	<SubTexture name="mys_idle0000" x="1670" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0001" x="1670" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0002" x="2080" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0003" x="2080" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0004" x="2490" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0005" x="2490" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0006" x="2900" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0007" x="2900" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0008" x="3310" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0009" x="3310" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0010" x="3310" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0011" x="3310" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0012" x="3310" y="10" width="400" height="453"/>
+	<SubTexture name="mys_idle0013" x="3310" y="10" width="400" height="453"/>
+	<SubTexture name="mys_left0000" x="10" y="473" width="386" height="451"/>
+	<SubTexture name="mys_left0001" x="10" y="473" width="386" height="451"/>
+	<SubTexture name="mys_left0002" x="406" y="473" width="386" height="451"/>
+	<SubTexture name="mys_left0003" x="406" y="473" width="386" height="451"/>
+	<SubTexture name="mys_left0004" x="802" y="473" width="386" height="451"/>
+	<SubTexture name="mys_left0005" x="802" y="473" width="386" height="451"/>
+	<SubTexture name="mys_left0006" x="1198" y="473" width="386" height="451"/>
+	<SubTexture name="mys_right0000" x="1594" y="473" width="393" height="452"/>
+	<SubTexture name="mys_right0001" x="1594" y="473" width="393" height="452"/>
+	<SubTexture name="mys_right0002" x="1997" y="473" width="393" height="452"/>
+	<SubTexture name="mys_right0003" x="1997" y="473" width="393" height="452"/>
+	<SubTexture name="mys_right0004" x="2400" y="473" width="393" height="452"/>
+	<SubTexture name="mys_right0005" x="2400" y="473" width="393" height="452"/>
+	<SubTexture name="mys_right0006" x="2803" y="473" width="393" height="452"/>
+	<SubTexture name="mys_up0000" x="3206" y="473" width="373" height="475"/>
+	<SubTexture name="mys_up0001" x="3206" y="473" width="373" height="475"/>
+	<SubTexture name="mys_up0002" x="3589" y="473" width="373" height="475"/>
+	<SubTexture name="mys_up0003" x="3589" y="473" width="373" height="475"/>
+	<SubTexture name="mys_up0004" x="10" y="958" width="373" height="475"/>
+	<SubTexture name="mys_up0005" x="10" y="958" width="373" height="475"/>
+	<SubTexture name="mys_up0006" x="393" y="958" width="373" height="475"/>
+</TextureAtlas>

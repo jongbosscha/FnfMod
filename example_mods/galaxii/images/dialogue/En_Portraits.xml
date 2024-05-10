@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="En_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PortAwkward0000" x="10" y="10" width="672" height="672" frameX="0" frameY="0" frameWidth="702" frameHeight="672"/>
+	<SubTexture name="PortAwkward0001" x="10" y="10" width="672" height="672" frameX="0" frameY="0" frameWidth="702" frameHeight="672"/>
+	<SubTexture name="PortAwkward0002" x="10" y="10" width="672" height="672" frameX="0" frameY="0" frameWidth="702" frameHeight="672"/>
+	<SubTexture name="PortAwkward0003" x="10" y="10" width="672" height="672" frameX="0" frameY="0" frameWidth="702" frameHeight="672"/>
+	<SubTexture name="PortCondescending0000" x="10" y="692" width="672" height="672" frameX="0" frameY="0" frameWidth="706" frameHeight="672"/>
+	<SubTexture name="PortCondescending0001" x="10" y="692" width="672" height="672" frameX="0" frameY="0" frameWidth="706" frameHeight="672"/>
+	<SubTexture name="PortCondescending0002" x="10" y="692" width="672" height="672" frameX="0" frameY="0" frameWidth="706" frameHeight="672"/>
+	<SubTexture name="PortCondescending0003" x="10" y="692" width="672" height="672" frameX="0" frameY="0" frameWidth="706" frameHeight="672"/>
+	<SubTexture name="PortConfused0000" x="10" y="1374" width="672" height="672" frameX="0" frameY="0" frameWidth="715" frameHeight="672"/>
+	<SubTexture name="PortConfused0001" x="10" y="1374" width="672" height="672" frameX="0" frameY="-10" frameWidth="715" frameHeight="672"/>
+	<SubTexture name="PortConfused0002" x="10" y="1374" width="672" height="672" frameX="0" frameY="-15" frameWidth="715" frameHeight="672"/>
+	<SubTexture name="PortConfused0003" x="10" y="1374" width="672" height="672" frameX="0" frameY="-10" frameWidth="715" frameHeight="672"/>
+	<SubTexture name="PortConsidering0000" x="10" y="2056" width="672" height="672" frameX="0" frameY="0" frameWidth="705" frameHeight="672"/>
+	<SubTexture name="PortConsidering0001" x="10" y="2056" width="672" height="672" frameX="0" frameY="0" frameWidth="705" frameHeight="672"/>
+	<SubTexture name="PortConsidering0002" x="10" y="2056" width="672" height="672" frameX="0" frameY="0" frameWidth="705" frameHeight="672"/>
+	<SubTexture name="PortConsidering0003" x="10" y="2056" width="672" height="672" frameX="0" frameY="0" frameWidth="705" frameHeight="672"/>
+	<SubTexture name="PortConsidering0004" x="10" y="2056" width="672" height="672" frameX="0" frameY="0" frameWidth="705" frameHeight="672"/>
+	<SubTexture name="PortReachingOut0000" x="10" y="2738" width="672" height="672" frameX="0" frameY="0" frameWidth="752" frameHeight="672"/>
+	<SubTexture name="PortReachingOut0001" x="10" y="2738" width="672" height="672" frameX="0" frameY="-10" frameWidth="752" frameHeight="672"/>
+	<SubTexture name="PortReachingOut0002" x="10" y="2738" width="672" height="672" frameX="0" frameY="-15" frameWidth="752" frameHeight="672"/>
+	<SubTexture name="PortReachingOut0003" x="10" y="2738" width="672" height="672" frameX="0" frameY="-10" frameWidth="752" frameHeight="672"/>
+	<SubTexture name="PortThreatening0000" x="692" y="10" width="672" height="672" frameX="0" frameY="0" frameWidth="715" frameHeight="672"/>
+	<SubTexture name="PortThreatening0001" x="692" y="10" width="672" height="672" frameX="0" frameY="-10" frameWidth="715" frameHeight="672"/>
+	<SubTexture name="PortWorried0000" x="692" y="692" width="672" height="672" frameX="0" frameY="0" frameWidth="725" frameHeight="672"/>
+	<SubTexture name="PortWorried0001" x="692" y="692" width="672" height="672" frameX="0" frameY="-4" frameWidth="725" frameHeight="672"/>
+	<SubTexture name="PortWorried0002" x="692" y="692" width="672" height="672" frameX="0" frameY="0" frameWidth="725" frameHeight="672"/>
+	<SubTexture name="PortWorried0003" x="692" y="692" width="672" height="672" frameX="0" frameY="4" frameWidth="725" frameHeight="672"/>
+</TextureAtlas>

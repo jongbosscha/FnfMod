@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "explaining",
+			"text": "Hey, you two okay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "Well yeah, but I think you have some explaining to do.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "angry",
+			"text": "What he said! Who are you? Why are you protecting us?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "My name's Nathan, and I'm the co-owner of Galaxii Games.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "shaded",
+			"text": "But unfortunately, in recent years, Nova's become so obsessed with money.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "shaded",
+			"text": "She's not who she used to be...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "But that aside, we should be safe in this alleyway.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "I asked my friend to try and reason with them, he isn't big on what they've become either.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "worried",
+			"text": "I just hope Nova doesn't fire him...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "confused",
+			"text": "So what now? Do we wait for him to come here and tell us what went down?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Pretty mu-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "scraps",
+			"text": "FR-THREAT DETECTED.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aaron"
+		},
+		{
+			"expression": "awkward",
+			"text": "Geez...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "pointing",
+			"text": "Hey, you were able to defeat that thing before, reckon you can do it again?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "Yeah, but I'm not sure how we activated his Karaoke Mode last time...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "pointing",
+			"text": "Aaron, 'Your mom'.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "scraps",
+			"text": "KARAOKE MODE. ACCEPTED.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aaron"
+		}
+	]
+}

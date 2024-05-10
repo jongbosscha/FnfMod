@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				24
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NovaLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NovaDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-2
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NovaUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-20
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NovaRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "NovaIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "NovaMissLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "NovaMissDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "NovaMissUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "NovaMissRight"
+		},
+		{
+			"offsets": [
+				-107,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "NovaDeadLoop"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "NovaDeadConfirm"
+		},
+		{
+			"offsets": [
+				-117,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "NovaDIes"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nova",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nova",
+	"flip_x": false,
+	"healthbar_colors": [
+		182,
+		91,
+		255
+	],
+	"camera_position": [
+		200,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

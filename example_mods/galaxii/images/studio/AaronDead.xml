@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AaronDead.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AaronBop0000" x="10" y="10" width="1032" height="353" frameX="-14" frameY="0" frameWidth="1062" frameHeight="354"/>
+	<SubTexture name="AaronBop0001" x="10" y="729" width="1062" height="339" frameX="0" frameY="-15" frameWidth="1062" frameHeight="354"/>
+	<SubTexture name="AaronBop0002" x="10" y="373" width="1047" height="346" frameX="-7" frameY="-7" frameWidth="1062" frameHeight="354"/>
+	<SubTexture name="AaronBop0003" x="10" y="10" width="1032" height="353" frameX="-14" frameY="0" frameWidth="1062" frameHeight="354"/>
+	<SubTexture name="AaronBop0004" x="10" y="10" width="1032" height="353" frameX="-14" frameY="0" frameWidth="1062" frameHeight="354"/>
+	<SubTexture name="AaronBop0005" x="10" y="10" width="1032" height="353" frameX="-14" frameY="0" frameWidth="1062" frameHeight="354"/>
+	<SubTexture name="AaronBop0006" x="10" y="10" width="1032" height="353" frameX="-14" frameY="0" frameWidth="1062" frameHeight="354"/>
+</TextureAtlas>

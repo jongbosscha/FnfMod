@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fan.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fan_idle0000" x="0" y="0" width="1502" height="478"/>
+	<SubTexture name="fan_idle0001" x="0" y="0" width="1502" height="478"/>
+	<SubTexture name="fan_idle0002" x="1586" y="0" width="1502" height="478"/>
+	<SubTexture name="fan_idle0003" x="1586" y="0" width="1502" height="478"/>
+	<SubTexture name="fan_idle0004" x="0" y="562" width="1502" height="478"/>
+	<SubTexture name="fan_idle0005" x="0" y="562" width="1502" height="478"/>
+	<SubTexture name="fan_idle0006" x="1586" y="562" width="1502" height="478"/>
+	<SubTexture name="fan_idle0007" x="1586" y="562" width="1502" height="478"/>
+	<SubTexture name="fan_idle0008" x="0" y="1124" width="1502" height="478"/>
+	<SubTexture name="fan_idle0009" x="0" y="1124" width="1502" height="478"/>
+	<SubTexture name="fan_idle0010" x="0" y="1124" width="1502" height="478"/>
+	<SubTexture name="fan_wow0000" x="1586" y="1124" width="1599" height="638"/>
+	<SubTexture name="fan_wow0001" x="1586" y="1124" width="1599" height="638"/>
+	<SubTexture name="fan_wow0002" x="0" y="1846" width="1599" height="638"/>
+	<SubTexture name="fan_wow0003" x="0" y="1846" width="1599" height="638"/>
+	<SubTexture name="fan_wow0004" x="1683" y="1846" width="1599" height="638"/>
+	<SubTexture name="fan_wow0005" x="1683" y="1846" width="1599" height="638"/>
+	<SubTexture name="fan_wow0006" x="0" y="2568" width="1599" height="638"/>
+	<SubTexture name="fan_wow0007" x="0" y="2568" width="1599" height="638"/>
+	<SubTexture name="fan_wow0008" x="1683" y="2568" width="1599" height="638"/>
+	<SubTexture name="fan_wow0009" x="1683" y="2568" width="1599" height="638"/>
+	<SubTexture name="fan_wow0010" x="1683" y="2568" width="1599" height="638"/>
+	<SubTexture name="fan_wow0011" x="1683" y="2568" width="1599" height="638"/>
+	<SubTexture name="fan_wow0012" x="1683" y="2568" width="1599" height="638"/>
+</TextureAtlas>

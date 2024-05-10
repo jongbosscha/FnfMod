@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"expression": "amused",
+			"text": "That was fun, helped relieve a bit of that stress.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nard"
+		},
+		{
+			"expression": "excited",
+			"text": "It sure was, the Nard!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "amused",
+			"text": "Hey, what do you say about another ro-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nard"
+		},
+		{
+			"expression": "scared",
+			"text": "NARD, WATCH OUT!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "exist",
+			"text": "Nard steps out of the way, barely dodging a bullet flying towards the 4 of them.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "surprised",
+			"text": "Woah, that was close!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nard"
+		},
+		{
+			"expression": "threatening",
+			"text": "Well, well, well, look who found their way into my favorite hiding spot...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "condescending",
+			"text": "When he said it'd be easy to find you guys, I had no idea HOW easy he meant.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "idle",
+			"text": "Neo, what are you doing here? I thought you left us ages ago.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "explaining",
+			"text": "Oh I did, but I'm back. Didn't receive my final paycheck so when I was offered blood money outta y'all...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "condescending",
+			"text": "I couldn't resist the temptation!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "explaining",
+			"text": "I go by Seven now by the way, Mr. Seven, that is...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "amused",
+			"text": "Heh, that's funny, thought you'd never accept your surname.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "amused",
+			"text": "Mr. Seven? What is that, your age? Because you sure are acting like a child.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nard"
+		},
+		{
+			"expression": "shaded",
+			"text": ".......",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "shaded",
+			"text": "Nathan, you're lucky you mean something to Charlie you know.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "shaded",
+			"text": "Since you're not the only one armed here, and I'm kinda being PAID to kill you and all...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "condescending",
+			"text": "Speaking of which, since I have to spare you, I just don't feel like one's enough...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "shaded",
+			"text": "I might just have to kill the midget as well, Mr. D never said what state I have to leave HIM in.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "shaded",
+			"text": "Only you Galaxii Brainlets and the girl...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "awkward",
+			"text": "Hold on now, there has to be some other way around this...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "A rap battle, maybe?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Are you sure you still have it left in ya? You've rapped a lot in the last 12 hours...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "GF I ain't becoming blood money, we winning this game or I'm dyin tryin'!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "excited",
+			"text": "I like that enthusiasm! Let's do this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "seven"
+		},
+		{
+			"expression": "exists",
+			"text": "Nathan crouches down and whispers something into The Boyfriend's ear.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "whispering",
+			"text": "I'm going to try and shoot him, you keep him distracted with the rap battle.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		},
+		{
+			"expression": "whispering",
+			"text": "And be careful, my aim isn't that good.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nathan"
+		}
+	]
+}

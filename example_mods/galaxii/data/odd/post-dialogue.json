@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "considering",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "considering",
+			"text": "Get out of my face.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "explaining",
+			"text": "But-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "threatening",
+			"text": "Get. Out. Of. My. Face.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "awkward",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		}
+	]
+}
